@@ -1,0 +1,7 @@
+﻿Вырезанная сцена из файла Candy-Candy_DVD_TV_Deleted_scene_Ep078Ver_Simu.mkv
+
+Начало вырезанной сцены в файле Candy-Candy_DVD_Ep078.mkv = 05:59.777
+Конец вырезанной сцены в файле  Candy-Candy_DVD_Ep078.mkv = 06:14.708
+
+Начало вставляемой сцены в файле Candy-Candy_DVD_TV_Deleted_scene_Ep078Ver_Simu.mkv = 00:01.918
+Конец вставляемой сцены в файле  Candy-Candy_DVD_TV_Deleted_scene_Ep078Ver_Simu.mkv = 03:39.719
