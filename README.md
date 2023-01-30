@@ -31,7 +31,8 @@
 
 ## Распространение
 
-Вы можете свободно распространять этот перевод, изменять его и создавать свои произведения на его основе в соответствии с лицензией [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
+Вы можете свободно распространять этот перевод, изменять его и создавать свои произведения на его основе
+в соответствии с лицензией [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru).
 
 ## Контакты
 
@@ -39,3 +40,4 @@
 
 * E-mail hd_keeper@mail.ru
 * Телеграм [@HDKeeper](https://t.me/HDKeeper)
+* Skype [hd_keeper](https://join.skype.com/invite/kUFGDOFMLgQo)
