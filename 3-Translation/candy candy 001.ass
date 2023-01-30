@@ -11,17 +11,19 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep001.mkv
-Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep001.mkv
+Audio File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep001.mkv
+Video File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep001.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Video Position: 108
+Scroll Position: 41
+Active Line: 53
+Video Position: 8241
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Franklin Gothic Medium,50,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
-Style: EpisodeTitle,Comic Sans MS,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: Default,Franklin Gothic Medium,50,&H00FFFFFF,&H000019FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+Style: EpisodeTitle,Comic Sans MS,80,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
 Style: AnimeTitle,Franklin Gothic Heavy,100,&H003B2DE4,&H00C97130,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,6,2,10,10,80,1
 Style: Lyrics,Comic Sans MS,60,&H00FFFFFF,&H000019FF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
 
@@ -213,9 +215,9 @@ Dialogue: 0,0:16:00.43,0:16:02.23,Default,,0,0,0,,Заткнись. Я же ст
 Dialogue: 0,0:16:02.84,0:16:06.94,Default,,0,0,0,,Если хочешь, тебя научит Кэнди, мастер лассо!
 Dialogue: 0,0:16:07.04,0:16:10.14,Default,,0,0,0,,Да кому ты нужна... убирайся!
 Dialogue: 0,0:16:10.24,0:16:12.61,Default,,0,0,0,,Посмотрим, что ты умеешь.
-Dialogue: 0,0:16:19.89,0:16:21.32,Default,,0,0,0,,Цель упала!
+Dialogue: 0,0:16:19.89,0:16:21.32,Default,,0,0,0,,Шляпа свалилась!
 Dialogue: 0,0:16:22.16,0:16:23.42,Default,,0,0,0,,Не трогай!
-Dialogue: 0,0:16:23.69,0:16:27.13,Default,,0,0,0,,Эта ценная шляпа - подарок от моего будущего папы.
+Dialogue: 0,0:16:23.69,0:16:27.13,Default,,0,0,0,,Эта ценная шляпа - подарок моего будущего папы.
 Dialogue: 0,0:16:30.56,0:16:32.53,Default,,0,0,0,,Шляпа как шляпа.
 Dialogue: 0,0:16:32.53,0:16:33.76,Default,,0,0,0,,Да заткнись!
 Dialogue: 0,0:16:34.77,0:16:37.97,Default,,0,0,0,,Ты допрыгался!
