@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep003.mkv
-Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep003.mkv
+Audio File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep003.mkv
+Video File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep003.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 307
-Active Line: 309
-Video Position: 34083
+Scroll Position: 48
+Active Line: 59
+Video Position: 6303
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,9 +52,9 @@ Dialogue: 0,0:01:51.55,0:01:53.52,Default,,0,0,0,,Так вкусно!
 Dialogue: 0,0:01:56.16,0:01:58.63,Default,,0,0,0,,Словами не передать.
 Dialogue: 0,0:01:58.63,0:02:00.13,Default,,0,0,0,,Это...
 Dialogue: 0,0:02:00.13,0:02:01.53,Default,,0,0,0,,Что, Джон?
-Dialogue: 0,0:02:01.53,0:02:03.93,Default,,0,0,0,,А кости не едят?
-Dialogue: 0,0:02:05.57,0:02:08.19,Default,,0,0,0,,После того, как пожарят мясо и овощи.
-Dialogue: 0,0:02:08.54,0:02:12.94,Default,,0,0,0,,Думаю, что нет. Мистер Брайтон ведь очень богатый.
+Dialogue: 0,0:02:01.53,0:02:03.93,Default,,0,0,0,,А сколько их было?
+Dialogue: 0,0:02:05.57,0:02:08.19,Default,,0,0,0,,Этих палок с мясом и овощами.
+Dialogue: 0,0:02:08.54,0:02:12.94,Default,,0,0,0,,Кто их считает? Мистер Брайтон ведь очень богатый.
 Dialogue: 0,0:02:13.17,0:02:15.73,Default,,0,0,0,,Значит, можно было есть сколько угодно?
 Dialogue: 0,0:02:16.04,0:02:17.41,Default,,0,0,0,,Конечно!
 Dialogue: 0,0:02:17.41,0:02:20.35,Default,,0,0,0,,- Круто!\N- Слюнки текут!
@@ -88,7 +88,7 @@ Dialogue: 0,0:03:57.14,0:03:59.68,Default,,0,0,0,,Большое вам спас
 Dialogue: 0,0:03:59.68,0:04:03.91,Default,,0,0,0,,Не стоит, шашлык - это только повод.
 Dialogue: 0,0:04:05.49,0:04:07.78,Default,,0,0,0,,По правде говоря...
 Dialogue: 0,0:04:14.80,0:04:18.36,Default,,0,0,0,,Джон! Ещё не готово!\NСмотри не обожгись!
-Dialogue: 0,0:04:20.70,0:04:22.90,Default,,0,0,0,,А можно съесть пять?
+Dialogue: 0,0:04:20.70,0:04:22.90,Default,,0,0,0,,А можно съесть пять палок?
 Dialogue: 0,0:04:23.07,0:04:25.23,Default,,0,0,0,,Конечно, ешь сколько угодно.
 Dialogue: 0,0:04:28.28,0:04:30.77,Default,,0,0,0,,У нас полно мяса и овощей.
 Dialogue: 0,0:04:35.12,0:04:36.81,Default,,0,0,0,,Вот и готово!
