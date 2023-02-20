@@ -5,3 +5,5 @@
 
 Начало вставляемой сцены в файле Candy-Candy_DVD_TV_Deleted_scene_Ep078Ver_Simu.mkv = 00:01.918
 Конец вставляемой сцены в файле  Candy-Candy_DVD_TV_Deleted_scene_Ep078Ver_Simu.mkv = 03:39.719
+
+Исправленная серия: https://cloud.mail.ru/public/RjRB/cExPVUawE
