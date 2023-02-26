@@ -16,7 +16,9 @@ Audio File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep005.mkv
 Video File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep005.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Position: 108
+Scroll Position: 133
+Active Line: 144
+Video Position: 16117
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,7 +172,7 @@ Dialogue: 0,0:10:36.41,0:10:38.31,Default,,0,0,0,,Идём, Клин.
 Dialogue: 0,0:10:38.31,0:10:41.77,Default,,0,0,0,,Интересно, какой у Лэганов дом? Поскорей бы увидеть.
 Dialogue: 0,0:10:42.15,0:10:45.02,Default,,0,0,0,,Клин, давай пробежимся?
 Dialogue: 0,0:10:59.13,0:11:00.86,Default,,0,0,0,,Какой огромный дом!
-Dialogue: 0,0:11:06.84,0:11:09.74,Default,,0,0,0,,Похож на дворец из сказки!
+Dialogue: 0,0:11:06.84,0:11:09.74,Default,,0,0,0,,Прямо как дворец из сказки!
 Dialogue: 0,0:11:12.18,0:11:14.31,Default,,0,0,0,,Тут точно живёт принц!
 Dialogue: 0,0:11:14.31,0:11:17.72,Default,,0,0,0,,Клин, идём. Тут есть кто-нибудь?
 Dialogue: 0,0:11:24.02,0:11:26.02,Default,,0,0,0,,Ребята!
@@ -183,7 +185,7 @@ Dialogue: 0,0:11:51.45,0:11:53.42,Default,,0,0,0,,Мама! Мама!
 Dialogue: 0,0:11:54.07,0:11:55.82,Default,,0,0,0,,Что это за шум?
 Dialogue: 0,0:11:57.89,0:11:59.79,Default,,0,0,0,,Что ты делаешь с моим сыном?
 Dialogue: 0,0:11:59.93,0:12:03.36,Default,,0,0,0,,Приятно познакомиться! Я Кэндис Уайт из Дома Пони.
-Dialogue: 0,0:12:15.94,0:12:19.64,Default,,0,0,0,,Это госпожа. Это юная леди - мисс Элиза.
+Dialogue: 0,0:12:15.94,0:12:19.64,Default,,0,0,0,,Это госпожа. Это юная леди -- мисс Элиза.
 Dialogue: 0,0:12:20.31,0:12:21.80,Default,,0,0,0,,Молодой хозяин, мистер Нил.
 Dialogue: 0,0:12:23.95,0:12:25.52,Default,,0,0,0,,И больше никого?
 Dialogue: 0,0:12:25.52,0:12:27.75,Default,,0,0,0,,Только сам господин.
@@ -197,7 +199,7 @@ Dialogue: 0,0:12:45.94,0:12:47.20,Default,,0,0,0,,Боюсь!
 Dialogue: 0,0:12:47.74,0:12:50.88,Default,,0,0,0,,Всё хорошо, Клин.\NНе трусь, Элиза!
 Dialogue: 0,0:12:50.88,0:12:52.75,Default,,0,0,0,,Она называет меня просто Элизой!
 Dialogue: 0,0:12:52.75,0:12:54.28,Default,,0,0,0,,Послушай, Кэнди.
-Dialogue: 0,0:12:54.28,0:12:58.72,Default,,0,0,0,,Называй Нила мистер, а Элизу - мисс.
+Dialogue: 0,0:12:54.28,0:12:58.72,Default,,0,0,0,,Называй Нила мистер, а Элизу -- мисс.
 Dialogue: 0,0:13:00.43,0:13:04.36,Default,,0,0,0,,В этом доме брата и сестру мне называть мистер и мисс?
 Dialogue: 0,0:13:04.36,0:13:07.39,Default,,0,0,0,,Наша сестра?! Эта грязная девчонка?
 Dialogue: 0,0:13:07.59,0:13:09.26,Default,,0,0,0,,Вот умóра!
