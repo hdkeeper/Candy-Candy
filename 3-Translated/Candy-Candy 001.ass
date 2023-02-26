@@ -18,8 +18,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
 Scroll Position: 48
-Active Line: 51
-Video Position: 8004
+Active Line: 57
+Video Position: 8668
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -86,7 +86,7 @@ Dialogue: 0,0:05:34.30,0:05:36.07,Default,,0,0,0,,Залезу ему на го�
 Dialogue: 0,0:05:43.69,0:05:45.41,Default,,0,0,0,,Кэнди, ты в порядке?
 Dialogue: 0,0:05:49.72,0:05:51.49,Default,,0,0,0,,Слава Богу.
 Dialogue: 0,0:05:53.13,0:05:54.49,Default,,0,0,0,,Они едут сюда!
-Dialogue: 0,0:05:55.66,0:05:58.29,Default,,0,0,0,,- Берегись!\N- С дороги!
+Dialogue: 0,0:05:55.20,0:05:58.29,Default,,0,0,0,,- Берегись, Энни!\N- С дороги!
 Dialogue: 0,0:06:01.50,0:06:03.80,Default,,0,0,0,,Мой снеговик!
 Dialogue: 0,0:06:03.97,0:06:06.03,Default,,0,0,0,,Ты доигрался!
 Dialogue: 0,0:06:07.11,0:06:08.91,Default,,0,0,0,,Том, стой!
