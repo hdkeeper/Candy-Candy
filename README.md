@@ -6,11 +6,15 @@
 В нём есть оригинальная японская озвучка и неплохое качество картинки.
 Если вы знаете релиз с лучшим качеством – напишите мне, пожалуйста.
 
-[Скачать релиз Simu](https://nyaa.ink/view/891914), [зеркало](https://cloud.mail.ru/public/HpHa/sEV8EDC7Y), [зеркало](https://nyaa.si/view/891914)
+[Скачать релиз Simu](https://nyaa.ink/view/891914),
+[зеркало](https://cloud.mail.ru/public/HpHa/sEV8EDC7Y),
+[зеркало](https://nyaa.si/view/891914)
 
 ## Как всё устроено
 
-Для работы непосредственно с субтитрами я использую Aegisub – [скачать](https://aeg-dev.github.io/AegiSite/downloads/main/).
+Для работы непосредственно с субтитрами я использую Aegisub –
+[скачать программу](https://github.com/arch1t3cht/Aegisub/releases) и
+[словари](https://aegisub.org/downloads/main/#dictionaries).
 
 Перевод ведётся с нескольких источников. 
 
