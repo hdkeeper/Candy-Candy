@@ -16,7 +16,7 @@ class Replacement:
     def __init__(self, old: str, new: str):
         self.old = old
         self.new = new
-        self.pattern = re.compile(r'\b(' + old + r')\b')
+        self.pattern = re.compile(r'\b' + old + r'\b')
         self.count = 0
 
     def __str__(self) -> str:
