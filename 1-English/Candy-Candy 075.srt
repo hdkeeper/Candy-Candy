@@ -81,7 +81,7 @@ Everyone, let's go to downtown!
 19
 00:02:43,420 --> 00:02:45,980
 - Good idea!
-- Let's go together, Blanny.
+- Let's go together, Frannie.
 
 20
 00:02:47,730 --> 00:02:51,220
@@ -127,7 +127,7 @@ Are they your friends from Joseph Hospital?
 
 30
 00:03:32,100 --> 00:03:33,230
-Her name is Blanny.
+Her name is Frannie.
 
 31
 00:03:33,300 --> 00:03:34,430
@@ -216,7 +216,7 @@ Candy, don't worry about us.
 
 52
 00:04:41,010 --> 00:04:41,990
-Blanny
+Frannie
 
 53
 00:04:42,070 --> 00:04:45,410
@@ -236,7 +236,7 @@ Get on!
 
 57
 00:04:59,620 --> 00:05:01,290
-Blanny, plaese.
+Frannie, plaese.
 
 58
 00:05:07,770 --> 00:05:09,200
@@ -329,7 +329,7 @@ Let's go, Candy!
 
 80
 00:07:16,490 --> 00:07:18,020
-Blanny
+Frannie
 
 81
 00:07:18,160 --> 00:07:20,600
@@ -345,7 +345,7 @@ is not important.
 
 84
 00:07:30,140 --> 00:07:32,670
-Blanny has something in her mind,
+Frannie has something in her mind,
 
 85
 00:07:32,880 --> 00:07:36,510
@@ -361,7 +361,7 @@ These too.
 
 88
 00:07:55,200 --> 00:07:59,160
-The Adley family has a lot of banks and companies
+The Ardley family has a lot of banks and companies
 in Chicago.
 
 89
@@ -445,7 +445,7 @@ I am going home.
 
 108
 00:08:59,500 --> 00:09:00,960
-Blanny
+Frannie
 
 109
 00:09:01,400 --> 00:09:05,430
@@ -453,7 +453,7 @@ Candy, I was wrong about you.
 
 110
 00:09:05,740 --> 00:09:07,230
-Blanny
+Frannie
 
 111
 00:09:07,300 --> 00:09:09,470
@@ -478,7 +478,7 @@ Me too.
 
 116
 00:09:25,720 --> 00:09:27,590
-Blanny
+Frannie
 
 117
 00:09:27,760 --> 00:09:29,950
@@ -506,7 +506,7 @@ I am leaving now.
 
 123
 00:09:42,570 --> 00:09:44,040
-Wait, Blanny.
+Wait, Frannie.
 
 124
 00:09:48,110 --> 00:09:50,600
@@ -543,7 +543,7 @@ We understand, Candy.
 132
 00:10:19,940 --> 00:10:24,180
 But,
-you don't need to give up being an Adley.
+you don't need to give up being an Ardley.
 
 133
 00:10:24,980 --> 00:10:28,850
@@ -555,7 +555,7 @@ Candy
 
 135
 00:10:33,760 --> 00:10:37,490
-Stear, bring me to the Adley's.
+Stear, bring me to the Ardley's.
 
 136
 00:10:38,830 --> 00:10:41,920
@@ -576,7 +576,7 @@ Then I would feel better.
 
 140
 00:11:12,440 --> 00:11:15,230
-It's the Adley's front door.
+It's the Ardley's front door.
 
 141
 00:11:22,040 --> 00:11:23,300
@@ -613,7 +613,7 @@ Alright.
 
 149
 00:11:47,940 --> 00:11:50,560
-I am Candy White Adley.
+I am Candy White Ardley.
 
 150
 00:11:51,300 --> 00:11:54,200
@@ -1225,7 +1225,7 @@ Grand Aunt Elroy!
 
 298
 00:21:13,760 --> 00:21:18,260
-I am not allowing anyone in the Adley family
+I am not allowing anyone in the Ardley family
 to be a nurse!
 
 299

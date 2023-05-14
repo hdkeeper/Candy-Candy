@@ -322,7 +322,7 @@ Eliza, dry your hair with this...
 76
 00:06:19,900 --> 00:06:22,510
 Say, Terry, won't you come to the
-Adley's mansion?
+Ardley's mansion?
 
 77
 00:06:22,510 --> 00:06:25,040
@@ -933,7 +933,7 @@ You'll go when the rain stops?
 
 217
 00:16:22,410 --> 00:16:25,080
-White party at the Adley's .
+White party at the Ardley's .
 
 218
 00:16:25,080 --> 00:16:28,810
@@ -1091,7 +1091,7 @@ Eliza
 253
 00:19:37,421 --> 00:19:40,930
 The way you enter people's homes without
-permission will tarnish Adley's name!
+permission will tarnish Ardley's name!
 
 254
 00:19:41,384 --> 00:19:43,800

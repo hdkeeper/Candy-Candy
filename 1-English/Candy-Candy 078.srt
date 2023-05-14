@@ -19,7 +19,7 @@ from tomorrow.
 
 5
 00:01:58,920 --> 00:02:02,500
-I am back, Blanny!
+I am back, Frannie!
 What happened?
 
 6
@@ -37,7 +37,7 @@ Sorry, I am late.
 
 9
 00:02:20,630 --> 00:02:22,406
-Blanny, where are the patients?
+Frannie, where are the patients?
 
 10
 00:02:22,830 --> 00:02:27,290
@@ -46,7 +46,7 @@ don't need to show up right now.
 
 11
 00:02:27,410 --> 00:02:28,960
-Blanny,
+Frannie,
 
 12
 00:02:49,060 --> 00:02:50,330
@@ -55,7 +55,7 @@ excuse me...
 13
 00:02:50,330 --> 00:02:53,060
 May I talk to you for a minute,
-Blanny?
+Frannie?
 
 14
 00:02:53,060 --> 00:02:55,466
@@ -168,7 +168,7 @@ to have the night shift.
 
 38
 00:04:26,220 --> 00:04:28,950
-- Tonight is Blanny.
+- Tonight is Frannie.
 - Yes.
 
 39
@@ -740,7 +740,7 @@ a nurse with glasses stopped me.
 
 175
 00:15:12,600 --> 00:15:14,100
-It must be Blanny.
+It must be Frannie.
 
 176
 00:15:14,906 --> 00:15:16,070
@@ -748,7 +748,7 @@ Candy
 
 177
 00:15:16,306 --> 00:15:17,440
-Blanny
+Frannie
 
 178
 00:15:17,440 --> 00:15:22,140
@@ -1057,7 +1057,7 @@ Natalie.
 
 250
 00:20:25,020 --> 00:20:28,253
-Blanny is in the library, it's ok.
+Frannie is in the library, it's ok.
 
 251
 00:20:29,420 --> 00:20:31,306
@@ -1070,7 +1070,7 @@ get into trouble since I was a child.
 
 253
 00:20:36,830 --> 00:20:38,746
-And now I am Blanny's follower.
+And now I am Frannie's follower.
 
 254
 00:20:39,200 --> 00:20:41,130
@@ -1078,7 +1078,7 @@ Then why would you...
 
 255
 00:20:41,130 --> 00:20:42,960
-Blanny won't blame me.
+Frannie won't blame me.
 
 256
 00:20:43,100 --> 00:20:44,470
@@ -1125,7 +1125,7 @@ Thank you, Natalie!
 
 266
 00:21:14,800 --> 00:21:16,730
-Don't let Blanny find out
+Don't let Frannie find out
 about this.
 
 267

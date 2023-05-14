@@ -50,7 +50,7 @@ in this class.
 
 12
 00:02:18,360 --> 00:02:22,200
-Eliza Leagan! Candice White Adley!
+Eliza Leagan! Candice White Ardley!
 Please stand up.
 
 13
@@ -234,7 +234,7 @@ It's okay. Sister gave me permission.
 
 53
 00:04:52,080 --> 00:04:55,950
-Introduce the Adley family members
+Introduce the Ardley family members
 to the Brighton's Annie.
 
 54
@@ -304,7 +304,7 @@ Wow, for me?
 
 69
 00:05:53,780 --> 00:05:57,550
-You're a member of the Adley family
+You're a member of the Ardley family
 after all.
 
 70
@@ -838,7 +838,7 @@ Annie!
 
 192
 00:13:32,470 --> 00:13:34,370
-Candice White Adley!
+Candice White Ardley!
 
 193
 00:13:35,040 --> 00:13:36,840

@@ -124,7 +124,7 @@ Where does she live?
 
 31
 00:03:47,820 --> 00:03:49,640
-Pony's home? The Adley's?
+Pony's home? The Ardley's?
 
 32
 00:03:49,730 --> 00:03:52,700
@@ -273,7 +273,7 @@ You are looking for...
 
 68
 00:06:24,510 --> 00:06:27,340
-Candy, no, Candy Adley
+Candy, no, Candy Ardley
 
 69
 00:06:27,410 --> 00:06:28,700
@@ -285,7 +285,7 @@ Natalie, why are you here?
 
 71
 00:06:34,833 --> 00:06:36,080
-Blanny
+Frannie
 
 72
 00:06:36,313 --> 00:06:39,180
@@ -337,7 +337,7 @@ Please leave
 
 84
 00:07:09,790 --> 00:07:11,250
-Blanny
+Frannie
 
 85
 00:07:11,320 --> 00:07:12,620
@@ -727,7 +727,7 @@ You went back to take a rest.
 
 178
 00:14:44,640 --> 00:14:46,230
-Thank you Blanny
+Thank you Frannie
 
 179
 00:14:46,310 --> 00:14:49,750

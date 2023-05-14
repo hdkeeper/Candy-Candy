@@ -564,11 +564,11 @@ Check the pulse every ten minutes.
 
 134
 00:12:51,430 --> 00:12:52,830
-Blanny.
+Frannie.
 
 135
 00:12:54,500 --> 00:12:55,800
-Blanny.
+Frannie.
 
 136
 00:12:57,970 --> 00:12:59,340
@@ -876,7 +876,7 @@ Candy.
 
 209
 00:18:46,280 --> 00:18:49,880
--William Adley....
+-William Ardley....
 -Grandfather William?
 
 210

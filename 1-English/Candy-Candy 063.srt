@@ -910,7 +910,7 @@ Make things clear!
 
 217
 00:19:07,370 --> 00:19:08,860
-It's Blanny!
+It's Frannie!
 
 218
 00:19:08,940 --> 00:19:11,030
@@ -945,7 +945,7 @@ That's good.
 
 225
 00:19:30,690 --> 00:19:35,960
-Blanny, a new schoolmate.
+Frannie, a new schoolmate.
 Candice White.
 
 226
@@ -954,7 +954,7 @@ Show her the campus.
 
 227
 00:19:41,270 --> 00:19:45,230
-Candice, Blanny is an elder,
+Candice, Frannie is an elder,
 Learn from her.
 
 228

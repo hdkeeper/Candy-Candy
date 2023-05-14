@@ -251,7 +251,7 @@ That car...
 
 58
 00:05:52,490 --> 00:05:54,300
-It's the Adley family's car!
+It's the Ardley family's car!
 
 59
 00:05:54,300 --> 00:05:56,960
@@ -276,7 +276,7 @@ To pick me up?
 
 64
 00:06:12,910 --> 00:06:15,420
-You're taking me back to Adley house?
+You're taking me back to Ardley house?
 
 65
 00:06:15,420 --> 00:06:16,620
@@ -342,7 +342,7 @@ You are to come with me.
 
 79
 00:07:12,610 --> 00:07:15,580
-No! I've left the Adley house!
+No! I've left the Ardley house!
 
 80
 00:07:15,580 --> 00:07:16,910
@@ -354,11 +354,11 @@ You decided that on your own accord.
 
 82
 00:07:19,810 --> 00:07:23,120
-Formally, you're still an Adley.
+Formally, you're still an Ardley.
 
 83
 00:07:23,120 --> 00:07:25,110
-An Adley...
+An Ardley...
 
 84
 00:07:25,250 --> 00:07:28,240
@@ -426,7 +426,7 @@ Candy strictly lectured
 98
 00:08:19,170 --> 00:08:22,410
 so that she would become a lady
-worthy of Adley family!
+worthy of Ardley family!
 
 99
 00:08:22,410 --> 00:08:23,810

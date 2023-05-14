@@ -396,7 +396,7 @@ It's your name.
 
 92
 00:08:11,250 --> 00:08:14,620
-My name is Candice White Adley!
+My name is Candice White Ardley!
 
 93
 00:08:14,620 --> 00:08:17,390
@@ -404,7 +404,7 @@ Don't forget that name!
 
 94
 00:08:17,390 --> 00:08:20,990
-Alright? It's Candice White Adley!
+Alright? It's Candice White Ardley!
 
 95
 00:08:20,990 --> 00:08:22,590
@@ -501,7 +501,7 @@ from the rest of us?
 116
 00:09:46,910 --> 00:09:50,580
 Candy is also a member
-of the Adley family.
+of the Ardley family.
 
 117
 00:09:50,580 --> 00:09:52,750
@@ -934,7 +934,7 @@ anymore.
 
 216
 00:16:30,480 --> 00:16:34,680
-I'll call you Candice White Adley.
+I'll call you Candice White Ardley.
 
 217
 00:16:34,680 --> 00:16:36,150
