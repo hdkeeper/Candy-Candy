@@ -36,7 +36,7 @@ Annie, can you catch him?
 9
 00:01:53,740 --> 00:01:57,440
 Annie,
-Kurin wants to eat some dried meat.
+Clint wants to eat some dried meat.
 
 10
 00:02:01,250 --> 00:02:02,940
@@ -1032,7 +1032,7 @@ It was John...
 
 241
 00:20:34,460 --> 00:20:35,860
-Kurin!
+Clint!
 
 242
 00:20:39,260 --> 00:20:42,100
@@ -1045,7 +1045,7 @@ But I...
 
 244
 00:20:47,700 --> 00:20:49,140
-Kurin?
+Clint?
 
 245
 00:20:53,580 --> 00:20:55,070

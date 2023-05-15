@@ -18,7 +18,7 @@ his friend, who runs a shipping company.
 
 5
 00:01:58,580 --> 00:02:01,110
-Kurin, this is Southampton port.
+Clint, this is Southampton port.
 
 6
 00:02:01,110 --> 00:02:04,210
@@ -918,7 +918,7 @@ Thank you.
 
 217
 00:16:39,760 --> 00:16:41,720
-That' s great! Kurin.
+That' s great! Clint.
 
 218
 00:16:44,190 --> 00:16:45,820

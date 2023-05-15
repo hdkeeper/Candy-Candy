@@ -16,7 +16,7 @@ I'm sure the Prince is living here!
 
 5
 00:01:32,770 --> 00:01:34,430
-Kurin, let's go in.
+Clint, let's go in.
 
 6
 00:01:38,670 --> 00:01:42,440
@@ -58,12 +58,12 @@ Wonderful!
 
 15
 00:02:51,410 --> 00:02:54,640
-Kurin, wake up!
+Clint, wake up!
 It's a beautiful morning!
 
 16
 00:03:00,690 --> 00:03:03,180
-Kurin oversleep again!
+Clint oversleep again!
 
 17
 00:03:03,790 --> 00:03:05,850
@@ -88,7 +88,7 @@ Work!
 
 22
 00:03:32,720 --> 00:03:34,950
-Kurin, I'm so sorry!
+Clint, I'm so sorry!
 
 23
 00:03:41,930 --> 00:03:43,690
@@ -202,11 +202,11 @@ Stop!
 
 48
 00:06:13,550 --> 00:06:15,070
-Kurin, hold!
+Clint, hold!
 
 49
 00:06:36,970 --> 00:06:38,060
-Kurin!
+Clint!
 
 50
 00:06:42,610 --> 00:06:45,370
@@ -244,7 +244,7 @@ Candy! Throw the raccoon out!
 
 58
 00:07:29,220 --> 00:07:31,350
-But... it was not Kurin's fault!
+But... it was not Clint's fault!
 
 59
 00:07:31,630 --> 00:07:33,120
@@ -274,7 +274,7 @@ For your own sake!
 
 65
 00:08:15,940 --> 00:08:17,460
-Farewell, Kurin.
+Farewell, Clint.
 
 66
 00:08:28,250 --> 00:08:29,910
@@ -282,7 +282,7 @@ Stop following me!
 
 67
 00:08:47,970 --> 00:08:49,490
-Kurin?
+Clint?
 
 68
 00:08:50,170 --> 00:08:52,730
@@ -302,7 +302,7 @@ Wait!
 
 72
 00:09:13,530 --> 00:09:14,430
-listen, Kurin.
+listen, Clint.
 
 73
 00:09:14,430 --> 00:09:19,020
@@ -311,15 +311,15 @@ go back to Pony's home.
 
 74
 00:09:25,570 --> 00:09:26,830
-Farewell, Kurin!
+Farewell, Clint!
 
 75
 00:09:29,040 --> 00:09:31,600
-Farewell, Kurin. Take care.
+Farewell, Clint. Take care.
 
 76
 00:09:51,900 --> 00:09:53,920
-Kurin. I'm sorry, Kurin.
+Clint. I'm sorry, Clint.
 
 77
 00:09:55,400 --> 00:09:58,100
@@ -360,7 +360,7 @@ Candy!
 
 86
 00:10:44,920 --> 00:10:47,480
-Did you really get rid of Kurin?
+Did you really get rid of Clint?
 
 87
 00:10:49,090 --> 00:10:50,920
@@ -424,7 +424,7 @@ I got a letter from Pony's home!
 101
 00:11:44,950 --> 00:11:47,470
 -That's Candy!
--She was with Kurin!
+-She was with Clint!
 
 102
 00:11:47,750 --> 00:11:50,250
@@ -451,7 +451,7 @@ That's right...
 
 107
 00:12:25,390 --> 00:12:27,790
-Kurin,
+Clint,
 you can't wait to see, right?
 
 108
@@ -676,11 +676,11 @@ Of course, I'm gonna take it!
 159
 00:15:45,890 --> 00:15:48,980
 Candy, you want me to
-tell mama about Kurin?
+tell mama about Clint?
 
 160
 00:15:50,020 --> 00:15:53,890
-No! I forgot Kurin
+No! I forgot Clint
 when I got the letters!
 
 161
@@ -872,7 +872,7 @@ My prince.
 
 204
 00:20:27,870 --> 00:20:31,740
-Kurin,
+Clint,
 you found the letter from Pony's home?
 
 205
@@ -963,7 +963,7 @@ Yes.
 
 224
 00:21:54,190 --> 00:21:56,850
-Eliza hadn't told her about Kurin.
+Eliza hadn't told her about Clint.
 
 225
 00:21:57,160 --> 00:21:59,620

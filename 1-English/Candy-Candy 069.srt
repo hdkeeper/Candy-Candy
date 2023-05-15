@@ -927,11 +927,11 @@ Thank you.
 
 223
 00:18:56,230 --> 00:18:58,390
-Kurin, I'm back!
+Clint, I'm back!
 
 224
 00:19:01,300 --> 00:19:04,890
-Kurin. A new friend. Its name is Mina.
+Clint. A new friend. Its name is Mina.
 
 225
 00:19:08,270 --> 00:19:09,670
@@ -939,7 +939,7 @@ Come here.
 
 226
 00:19:10,240 --> 00:19:14,270
-Mina is too big! Kurin is frightened!
+Mina is too big! Clint is frightened!
 
 227
 00:19:15,950 --> 00:19:17,710
@@ -1100,7 +1100,7 @@ Mina is back to normal, too.
 
 265
 00:22:04,380 --> 00:22:05,850
-Come, Kurin.
+Come, Clint.
 
 266
 00:22:10,750 --> 00:22:18,320

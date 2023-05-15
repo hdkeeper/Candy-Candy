@@ -56,7 +56,7 @@ If I don't run now...
 
 14
 00:02:06,520 --> 00:02:08,710
-Kurin, now's our chance.
+Clint, now's our chance.
 
 15
 00:02:13,260 --> 00:02:16,690
@@ -72,7 +72,7 @@ Wait!
 
 18
 00:02:23,600 --> 00:02:25,260
-Help me, Kurin!
+Help me, Clint!
 
 19
 00:02:25,640 --> 00:02:29,200
@@ -84,7 +84,7 @@ Somebody help me!
 
 21
 00:02:33,310 --> 00:02:34,640
-Kurin!
+Clint!
 
 22
 00:02:35,210 --> 00:02:36,980
@@ -149,7 +149,7 @@ What are you doing!
 
 37
 00:03:43,380 --> 00:03:45,080
-Kurin!
+Clint!
 
 38
 00:03:49,020 --> 00:03:51,580
@@ -325,7 +325,7 @@ Alright now.
 
 76
 00:06:12,830 --> 00:06:14,420
-Let's go, Kurin!
+Let's go, Clint!
 
 77
 00:06:18,000 --> 00:06:19,490
@@ -333,7 +333,7 @@ It's okay!
 
 78
 00:06:35,520 --> 00:06:38,160
-Kurin, don't look down!
+Clint, don't look down!
 
 79
 00:06:38,160 --> 00:06:40,320
@@ -341,7 +341,7 @@ Follow me!
 
 80
 00:07:01,850 --> 00:07:04,280
-Kurin, I'm okay!
+Clint, I'm okay!
 Hurry up now!
 
 81
@@ -410,7 +410,7 @@ But I don't want to go to London
 
 95
 00:08:36,670 --> 00:08:39,140
-Yeah, I have you, Kurin.
+Yeah, I have you, Clint.
 
 96
 00:08:39,140 --> 00:08:41,130
@@ -957,7 +957,7 @@ I wonder where am I.
 221
 00:17:40,780 --> 00:17:41,760
 -And what are you?
--Kurin!
+-Clint!
 
 222
 00:17:41,846 --> 00:17:43,450
@@ -1001,7 +1001,7 @@ Anthony!
 
 231
 00:19:01,660 --> 00:19:04,930
-Kurin, you were watching over me
+Clint, you were watching over me
 the whole time?
 
 232

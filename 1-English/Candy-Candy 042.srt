@@ -392,7 +392,7 @@ Strange...
 
 92
 00:08:40,990 --> 00:08:43,390
-Kurin, are we alone?
+Clint, are we alone?
 
 93
 00:08:44,230 --> 00:08:46,470
@@ -414,7 +414,7 @@ If you really want that.
 
 97
 00:08:55,980 --> 00:08:58,950
-Kurin, take a look around the
+Clint, take a look around the
 northern wing.
 
 98
@@ -540,7 +540,7 @@ Scotland.
 
 125
 00:11:04,370 --> 00:11:05,670
-Kurin!
+Clint!
 
 126
 00:11:06,210 --> 00:11:08,830
@@ -684,7 +684,7 @@ Stop those horrible things!
 
 159
 00:13:52,610 --> 00:13:54,100
-What's the matter, Kurin?
+What's the matter, Clint?
 
 160
 00:13:57,910 --> 00:14:00,110
@@ -727,7 +727,7 @@ Annie.
 
 169
 00:14:27,210 --> 00:14:28,580
-Listen up, Kurin!
+Listen up, Clint!
 
 170
 00:14:28,580 --> 00:14:30,910
@@ -751,7 +751,7 @@ Candy.
 
 175
 00:14:37,220 --> 00:14:39,910
-Kurin, take care of Annie!
+Clint, take care of Annie!
 
 176
 00:14:53,030 --> 00:14:54,500

@@ -10,6 +10,7 @@ src_dir = realpath(join(dirname(__file__), '..', '1-English'))
 name_fixes = {
     'Adley':        'Ardley',
     'Blanny':       'Frannie',
+    'Kurin':        'Clint',
 }
 
 class Replacement:

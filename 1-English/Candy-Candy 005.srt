@@ -264,7 +264,7 @@ Stay well. Find your happiness.
 
 62
 00:06:15,020 --> 00:06:17,980
-Kurin! It's you.
+Clint! It's you.
 
 63
 00:06:20,150 --> 00:06:23,490
@@ -302,7 +302,7 @@ I'm too tired for this.
 
 71
 00:07:07,940 --> 00:07:08,990
-Kurin!
+Clint!
 
 72
 00:07:12,770 --> 00:07:14,260
@@ -314,7 +314,7 @@ Alright. You can come with me.
 
 74
 00:07:21,110 --> 00:07:22,740
-Kurin!
+Clint!
 
 75
 00:07:28,590 --> 00:07:31,180
@@ -558,7 +558,7 @@ Thanks!
 
 130
 00:10:36,410 --> 00:10:38,310
-Let's go, Kurin.
+Let's go, Clint.
 
 131
 00:10:38,310 --> 00:10:41,770
@@ -567,7 +567,7 @@ I'm so impatient.
 
 132
 00:10:42,150 --> 00:10:45,020
-Kurin, let's make a run for it!
+Clint, let's make a run for it!
 
 133
 00:10:59,130 --> 00:11:00,860
@@ -583,7 +583,7 @@ I'm sure the Prince is living here!
 
 136
 00:11:14,310 --> 00:11:17,720
-Kurin, let's go. Excuse me!
+Clint, let's go. Excuse me!
 
 137
 00:11:24,020 --> 00:11:26,020
@@ -677,7 +677,7 @@ I'm scared!
 
 158
 00:12:47,810 --> 00:12:50,880
-It's okay, Kurin.
+It's okay, Clint.
 Eliza, you coward!
 
 159
@@ -765,7 +765,7 @@ Think of her as our sibling!
 
 178
 00:13:57,980 --> 00:14:01,920
-Kurin,
+Clint,
 they don't want to be my sibling.
 
 179
@@ -894,7 +894,7 @@ Really. It's not the prettiest room.
 209
 00:15:58,160 --> 00:16:02,340
 But it's my own room,
-Kurin? Isn't it nice?
+Clint? Isn't it nice?
 
 210
 00:16:02,340 --> 00:16:03,870
@@ -1228,7 +1228,7 @@ See!
 
 286
 00:21:11,710 --> 00:21:14,010
-Kurin, don't blow up the dust.
+Clint, don't blow up the dust.
 
 287
 00:21:19,750 --> 00:21:21,410
