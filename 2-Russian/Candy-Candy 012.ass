@@ -12,13 +12,13 @@ Original Translation: Keeper
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep012.mkv
-Video File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep012.mkv
+Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep012.mkv
+Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep012.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 299
-Active Line: 303
-Video Position: 32041
+Scroll Position: 260
+Active Line: 264
+Video Position: 28331
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -292,7 +292,7 @@ Dialogue: 0,0:19:26.31,0:19:27.59,Default,,0,0,0,,Энтони!
 Dialogue: 0,0:19:27.89,0:19:29.32,Default,,0,0,0,,Идём!
 Dialogue: 0,0:19:32.66,0:19:35.70,Default,,0,0,0,,Кэнди, если тебе будет трудно, или захочешь меня увидеть,
 Dialogue: 0,0:19:35.75,0:19:38.99,Default,,0,0,0,,положи письмо в бутылку и пусти её по течению, когда дует южный ветер.
-Dialogue: 0,0:19:39.02,0:19:41.09,Default,,0,0,0,,Тогда я точно её получу.
+Dialogue: 0,0:19:39.02,0:19:41.09,Default,,0,0,0,,Тогда я точно его получу.
 Dialogue: 0,0:19:41.60,0:19:44.27,Default,,0,0,0,,Спасибо, мистер Альберт.
 Dialogue: 0,0:19:45.58,0:19:47.84,Default,,0,0,0,,Кэнди! Ты где?
 Dialogue: 0,0:19:47.84,0:19:49.90,Default,,0,0,0,,Энтони! Я здесь!
