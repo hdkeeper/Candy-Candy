@@ -11,6 +11,7 @@ name_fixes = {
     'Adley':        'Ardley',
     'Blanny':       'Frannie',
     'Kurin':        'Clint',
+    'Kurrin':       'Clint',
 }
 
 class Replacement:
