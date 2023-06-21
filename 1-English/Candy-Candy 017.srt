@@ -1103,7 +1103,7 @@ Candy is still on the station!
 
 255
 00:21:11,360 --> 00:21:13,090
-Lmpossible!
+Impossible!
 
 256
 00:21:13,730 --> 00:21:16,630
