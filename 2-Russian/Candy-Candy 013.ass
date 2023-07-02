@@ -12,14 +12,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep013.mkv
-Video File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep013.mkv
+Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep013.mkv
+Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep013.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.500000
-Scroll Position: 323
-Active Line: 337
-Video Position: 34149
+Video Zoom Percent: 0.875000
+Scroll Position: 36
+Active Line: 37
+Video Position: 4771
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,6 +27,7 @@ Style: Default,Franklin Gothic Medium,50,&H00FFFFFF,&H000019FF,&H00000000,&H8000
 Style: EpisodeTitle,Comic Sans MS,80,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
 Style: AnimeTitle,Franklin Gothic Heavy,100,&H003B2DE4,&H00C97130,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,6,2,10,10,80,1
 Style: Lyrics,Comic Sans MS,60,&H00FFFFFF,&H000019FF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: LyricsIns,Comic Sans MS,55,&H00FFFFFF,&H000019FF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -173,13 +174,13 @@ Dialogue: 0,0:09:50.05,0:09:51.83,Default,,0,0,0,,Тогда я точно ег�
 Dialogue: 0,0:09:52.35,0:09:54.28,Default,,0,0,0,,Спасибо, мистер Альберт.
 Dialogue: 0,0:10:00.86,0:10:02.19,Default,,0,0,0,,Дует южный ветер.
 Dialogue: 0,0:10:04.44,0:10:07.83,Default,,0,0,0,,Господи, пусть бутылка попадёт к мистеру Альберту.
-Dialogue: 0,0:10:12.43,0:10:20.73,Lyrics,,0,0,0,,Увижу ли во сне, что будет завтра?
-Dialogue: 0,0:10:21.17,0:10:30.54,Lyrics,,0,0,0,,Я люблю, люблю завтрашний день
-Dialogue: 0,0:10:31.24,0:10:39.85,Lyrics,,0,0,0,,Доброго друга вот-вот встречу
-Dialogue: 0,0:10:40.01,0:10:49.20,Lyrics,,0,0,0,,Я люблю, люблю завтрашний день
-Dialogue: 0,0:10:49.69,0:10:57.85,Lyrics,,0,0,0,,На холме, где качается зелень,
-Dialogue: 0,0:10:58.22,0:11:08.99,Lyrics,,0,0,0,,Он ждёт, ждёт меня
-Dialogue: 0,0:11:09.58,0:11:18.80,Lyrics,,0,0,0,,Кэнди – Кэнди
+Dialogue: 0,0:10:12.43,0:10:20.73,LyricsIns,,0,0,0,,Увижу ли во сне, что будет завтра?
+Dialogue: 0,0:10:21.17,0:10:30.54,LyricsIns,,0,0,0,,Я люблю, люблю завтрашний день
+Dialogue: 0,0:10:31.24,0:10:39.85,LyricsIns,,0,0,0,,Доброго друга вот-вот встречу
+Dialogue: 0,0:10:40.01,0:10:49.20,LyricsIns,,0,0,0,,Я люблю, люблю завтрашний день
+Dialogue: 0,0:10:49.69,0:10:57.85,LyricsIns,,0,0,0,,На холме, где качается зелень,
+Dialogue: 0,0:10:58.22,0:11:08.99,LyricsIns,,0,0,0,,Он ждёт, ждёт меня
+Dialogue: 0,0:11:09.58,0:11:18.80,LyricsIns,,0,0,0,,Кэнди – Кэнди
 Dialogue: 0,0:10:25.00,0:10:26.85,Default,,0,0,0,,Клин, ты куда? Там опасно!
 Dialogue: 0,0:10:30.25,0:10:33.78,Default,,0,0,0,,Ну конечно! Я же могу пойти вместе с бутылкой.
 Dialogue: 0,0:11:16.58,0:11:19.46,Default,,0,0,0,,Отсюда дальше пройти нельзя.
