@@ -12,14 +12,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep013.mkv
-Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy_DVD_Ep013.mkv
+Audio File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep013.mkv
+Video File: D:/Anime/Candy-Candy (DVD)/Episodes/Candy-Candy_DVD_Ep013.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 36
-Active Line: 37
-Video Position: 4771
+Scroll Position: 139
+Active Line: 145
+Video Position: 15135
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +27,7 @@ Style: Default,Franklin Gothic Medium,50,&H00FFFFFF,&H000019FF,&H00000000,&H8000
 Style: EpisodeTitle,Comic Sans MS,80,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
 Style: AnimeTitle,Franklin Gothic Heavy,100,&H003B2DE4,&H00C97130,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,6,2,10,10,80,1
 Style: Lyrics,Comic Sans MS,60,&H00FFFFFF,&H000019FF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
-Style: LyricsIns,Comic Sans MS,55,&H00FFFFFF,&H000019FF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: LyricsIns,Comic Sans MS,53,&H00FFFFFF,&H000019FF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
