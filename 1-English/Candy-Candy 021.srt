@@ -1320,7 +1320,7 @@ for a while
 
 299
 00:20:19,510 --> 00:20:21,540
-You will live in a forrest mansion.
+You will live in a forest mansion.
 
 300
 00:20:21,540 --> 00:20:23,150
