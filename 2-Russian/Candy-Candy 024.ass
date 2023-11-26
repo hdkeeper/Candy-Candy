@@ -12,14 +12,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 024.mkv
-Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 024.mkv
+Audio File: D:/Anime/Candy-Candy/Episodes/Candy-Candy 024.mkv
+Video File: D:/Anime/Candy-Candy/Episodes/Candy-Candy 024.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 12
-Active Line: 15
-Video Position: 2395
+Scroll Position: 250
+Active Line: 263
+Video Position: 26942
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,7 +44,7 @@ Dialogue: 0,0:00:53.82,0:00:56.67,Lyrics,,0,0,0,,Улыбайся, Кэнди
 Dialogue: 0,0:00:57.02,0:01:00.09,Lyrics,,0,0,0,,Скажи слезам «прощай»
 Dialogue: 0,0:01:00.09,0:01:03.07,Lyrics,,0,0,0,,Кэнди – Кэнди
 Dialogue: 0,0:01:14.50,0:01:17.60,Default,,0,0,0,,День, проведённый вдвоём в Лейквуде,
-Dialogue: 0,0:01:17.87,0:01:22.31,Default,,0,0,0,,для Кэнди и Энтони стал незабваемым.
+Dialogue: 0,0:01:17.87,0:01:22.31,Default,,0,0,0,,для Кэнди и Энтони стал незабываемым.
 Dialogue: 0,0:01:23.41,0:01:32.21,Default,,0,0,0,,А дома тётушка Элрой с нетерпением ожидала их возвращения.
 Dialogue: 0,0:01:33.80,0:01:37.49,EpisodeTitle,,0,0,0,,Мой Энтони
 Dialogue: 0,0:01:42.53,0:01:46.04,Default,,0,0,0,,Тебе понравилась карусель с деревянными лошадками, Кэнди?
@@ -229,7 +229,7 @@ Dialogue: 0,0:13:24.70,0:13:26.90,Default,,0,0,0,,С каких это пор т
 Dialogue: 0,0:13:26.92,0:13:28.52,Default,,0,0,0,,- Но ведь...\N- Смотри!
 Dialogue: 0,0:13:28.83,0:13:31.46,Default,,0,0,0,,Сейчас как раз сезон, когда розы опадают.
 Dialogue: 0,0:13:31.53,0:13:33.66,Default,,0,0,0,,Каждый год они опадают, но потом цветут снова.
-Dialogue: 0,0:13:33.72,0:13:37.81,Default,,0,0,0,,К тому же, я не принимаю близко к сердцу какие-то карточные гадания.
+Dialogue: 0,0:13:33.72,0:13:37.81,Default,,0,0,0,,К тому же я не принимаю близко к сердцу какие-то карточные гадания.
 Dialogue: 0,0:13:38.36,0:13:42.88,Default,,0,0,0,,Человеческое счастье -- это то, что мы создаём своими руками.
 Dialogue: 0,0:13:42.88,0:13:45.26,Default,,0,0,0,,Карты тут ничего не решают!
 Dialogue: 0,0:13:46.22,0:13:48.82,Default,,0,0,0,,Да, я тоже так думаю!
@@ -258,7 +258,7 @@ Dialogue: 0,0:15:28.84,0:15:30.91,Default,,0,0,0,,Жду не дождусь!
 Dialogue: 0,0:15:33.06,0:15:34.79,Default,,0,0,0,,Господа, это Кэндис Уайт,
 Dialogue: 0,0:15:34.79,0:15:40.13,Default,,0,0,0,,удочерённая по желанию дядюшки Уильяма.
 Dialogue: 0,0:15:40.13,0:15:42.60,Default,,0,0,0,,Давай, Кэнди, представься гостям.
-Dialogue: 0,0:15:42.60,0:15:43.79,Default,,0,0,0,,Да.
+Dialogue: 0,0:15:42.60,0:15:43.79,Default,,0,0,0,,Хорошо.
 Dialogue: 0,0:15:44.37,0:15:48.96,Default,,0,0,0,,Дорогие гости, разрешите представиться. Я Кэндис Уайт.
 Dialogue: 0,0:15:49.42,0:15:54.45,Default,,0,0,0,,Ну, я всегда хотела стать хорошей невестой, так что...
 Dialogue: 0,0:16:00.02,0:16:01.26,Default,,0,0,0,,Это ужасно.
@@ -293,7 +293,7 @@ Dialogue: 0,0:18:26.20,0:18:28.13,Default,,0,0,0,,Холм Пони!
 Dialogue: 0,0:18:31.27,0:18:34.53,Default,,0,0,0,,На холме Пони я выросла.
 Dialogue: 0,0:18:35.74,0:18:39.10,Default,,0,0,0,,Холм Пони и Дом Пони -- мои родные места.
 Dialogue: 0,0:18:40.30,0:18:42.10,Default,,0,0,0,,Вот бы поехать туда.
-Dialogue: 0,0:18:42.27,0:18:43.40,Default,,0,0,0,,Да?
+Dialogue: 0,0:18:42.27,0:18:43.40,Default,,0,0,0,,А?
 Dialogue: 0,0:18:43.68,0:18:47.35,Default,,0,0,0,,У тебя же полнó воспоминаний об этих местах.
 Dialogue: 0,0:18:47.35,0:18:48.43,Default,,0,0,0,,Ну да.
 Dialogue: 0,0:18:48.48,0:18:50.11,Default,,0,0,0,,Съездим туда вдвоём как-нибудь?
