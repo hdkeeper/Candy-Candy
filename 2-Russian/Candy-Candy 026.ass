@@ -17,8 +17,8 @@ Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 026.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Scroll Position: 273
-Active Line: 277
-Video Position: 31887
+Active Line: 275
+Video Position: 31739
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -306,7 +306,7 @@ Dialogue: 0,0:21:48.07,0:21:50.30,Default,,0,0,0,,- Снег пошёл!\N- И �
 Dialogue: 0,0:21:50.46,0:21:52.56,Default,,0,0,0,,Он похож на лепестки роз.
 Dialogue: 0,0:22:01.24,0:22:03.41,Default,,0,0,0,,Всё становится белоснежным.
 Dialogue: 0,0:22:03.75,0:22:06.51,Default,,0,0,0,,Я больше не буду плакать.
-Dialogue: 0,0:22:06.82,0:22:08.58,Default,,0,0,0,,Хочу быть сильнее.
+Dialogue: 0,0:22:06.82,0:22:09.02,Default,,0,0,0,,Буду сильной и буду жить дальше.
 Dialogue: 0,0:22:09.95,0:22:14.96,Default,,0,0,0,,Снег ласково укрывал все печали.
 Dialogue: 0,0:22:15.76,0:22:19.13,Default,,0,0,0,,До Рождества оставалось совсем немного.
 Dialogue: 0,0:22:29.08,0:22:37.38,Lyrics,,0,0,0,,Откуда приходит завтрашний день?
