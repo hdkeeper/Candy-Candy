@@ -17,9 +17,9 @@ Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 027.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 257
-Active Line: 261
-Video Position: 30619
+Scroll Position: 233
+Active Line: 236
+Video Position: 26444
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -265,13 +265,13 @@ Dialogue: 0,0:17:56.50,0:18:00.02,Default,,0,0,0,,Выпьем за хозяин
 Dialogue: 0,0:18:00.02,0:18:02.44,Default,,0,0,0,,До дна!
 Dialogue: 0,0:18:06.38,0:18:10.17,Default,,0,0,0,,Вы все отлично поработали в этом году!
 Dialogue: 0,0:18:10.21,0:18:13.23,Default,,0,0,0,,А теперь возвращайтесь домой и как следует отдыхайте!
-Dialogue: 0,0:18:14.11,0:18:17.22,Default,,0,0,0,,Я так давно не был дома...
-Dialogue: 0,0:18:17.28,0:18:19.58,Default,,0,0,0,,У сестры скоро будет ребёнок...
-Dialogue: 0,0:18:19.92,0:18:22.95,Default,,0,0,0,,У меня куча братьев, и всем нужны подарки...
+Dialogue: 0,0:18:14.11,0:18:16.97,Default,,0,0,0,,Я так давно не был дома...
+Dialogue: 0,0:18:17.18,0:18:19.70,Default,,0,0,0,,У младшей сестры скоро будет ребёнок...
+Dialogue: 0,0:18:19.80,0:18:22.95,Default,,0,0,0,,У меня куча братьев и сестёр, и всем нужны подарки...
 Dialogue: 0,0:18:34.22,0:18:36.56,Default,,0,0,0,,Что это, колокольчик?
 Dialogue: 0,0:18:43.80,0:18:46.51,Default,,0,0,0,,Это со стороны рождественской ёлки...
-Dialogue: 0,0:18:59.85,0:19:02.30,Default,,0,0,0,,Подарок ангелов!
-Dialogue: 0,0:19:27.69,0:19:32.18,Default,,0,0,0,,Они подарят вам счастье, и нежный поцелуй!
+Dialogue: 0,0:18:59.85,0:19:02.30,Default,,0,0,0,,Это подарок ангелов!
+Dialogue: 0,0:19:27.69,0:19:32.18,Default,,0,0,0,,Они подарят вам счастье и нежный поцелуй!
 Dialogue: 0,0:19:41.98,0:19:45.25,Default,,0,0,0,,- Славный мальчик!\N- Иди сюда!
 Dialogue: 0,0:19:47.50,0:19:49.45,Default,,0,0,0,,Мистер Картрайт,
 Dialogue: 0,0:19:49.45,0:19:52.05,Default,,0,0,0,,прошу вас, извините меня за недавнее.
