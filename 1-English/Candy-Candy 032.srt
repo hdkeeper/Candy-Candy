@@ -348,7 +348,7 @@ This is your room.
 80
 00:06:12,450 --> 00:06:14,720
 Immediately start preparing
-for tommorrow's lecture.
+for tomorrow's lecture.
 
 81
 00:06:14,720 --> 00:06:18,710
