@@ -16,9 +16,9 @@ Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 031.mkv
 Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 031.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 313
-Active Line: 315
-Video Position: 34076
+Scroll Position: 303
+Active Line: 305
+Video Position: 31526
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -336,7 +336,7 @@ Dialogue: 0,0:21:32.23,0:21:35.77,Default,,0,0,0,,Вы потеряли мног
 Dialogue: 0,0:21:37.43,0:21:39.25,Default,,0,0,0,,Прошу прощения.
 Dialogue: 0,0:21:40.14,0:21:42.53,Default,,0,0,0,,А вы -- быстро по своим комнатам!
 Dialogue: 0,0:21:42.57,0:21:44.35,Default,,0,0,0,,- Да!\N- Быстрее!
-Dialogue: 0,0:21:54.86,0:21:58.19,Default,,0,0,0,,Вот и Кэнди угодила в тюрьму.
+Dialogue: 0,0:21:54.86,0:21:58.19,Default,,0,0,0,,Вот и Кэнди попала в тюрьму.
 Dialogue: 0,0:22:03.52,0:22:08.30,Default,,0,0,0,,Кэнди зашла в ворота королевской школы святого Павла.
 Dialogue: 0,0:22:09.01,0:22:16.14,Default,,0,0,0,,Какая судьба ожидает её в самой строгой школе Англии?
 Dialogue: 0,0:22:20.58,0:22:26.89,Default,,0,0,0,,И кем был тот мальчик,\Nвстреченный на корабле?
