@@ -16,9 +16,9 @@ Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 030.mkv
 Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 030.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 229
-Active Line: 230
-Video Position: 33607
+Scroll Position: 218
+Active Line: 222
+Video Position: 32031
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -241,7 +241,7 @@ Dialogue: 0,0:20:12.95,0:20:15.37,Default,,0,0,0,,- Поздравляю, кап
 Dialogue: 0,0:20:19.86,0:20:23.66,Default,,0,0,0,,Капитан Уэллс, поздравляю с последним рейсом.
 Dialogue: 0,0:20:23.80,0:20:25.87,Default,,0,0,0,,Спасибо, Кэнди.
 Dialogue: 0,0:20:25.99,0:20:27.37,Default,,0,0,0,,Спасибо вам всем!
-Dialogue: 0,0:20:27.63,0:20:31.31,Default,,0,0,0,,Теперь я понял счастье быть человеком моря.
+Dialogue: 0,0:20:27.63,0:20:31.31,Default,,0,0,0,,Теперь мне понятно счастье быть человеком моря.
 Dialogue: 0,0:20:32.37,0:20:34.70,Default,,0,0,0,,Я очень счастлив.
 Dialogue: 0,0:20:47.16,0:20:48.39,Default,,0,0,0,,До дна!
 Dialogue: 0,0:20:48.46,0:20:52.39,Default,,0,0,0,,До дна! До дна!
@@ -252,7 +252,7 @@ Dialogue: 0,0:21:29.53,0:21:31.44,Default,,0,0,0,,Какой сильный ту
 Dialogue: 0,0:21:35.81,0:21:38.93,Default,,0,0,0,,Англия... Интересно, какая она?
 Dialogue: 0,0:21:39.41,0:21:44.75,Default,,0,0,0,,Всё-таки хорошо, что я поехала, ведь я встретила замечательного капитана Уэллса!
 Dialogue: 0,0:21:44.83,0:21:47.25,Default,,0,0,0,,Стир и Арчи наверняка уже заждались.
-Dialogue: 0,0:21:47.46,0:21:51.08,Default,,0,0,0,,С этими двумя куда ни пойди, везде будет весело.
+Dialogue: 0,0:21:47.46,0:21:51.08,Default,,0,0,0,,С этими двумя где угодно будет весело жить.
 Dialogue: 0,0:22:15.94,0:22:17.69,Default,,0,0,0,,Энтони?
 Dialogue: 0,0:22:20.07,0:22:24.88,Default,,0,0,0,,В густом тумане Кэнди увидела образ Энтони.
 Dialogue: 0,0:22:25.32,0:22:27.72,Default,,0,0,0,,Это было видение?
