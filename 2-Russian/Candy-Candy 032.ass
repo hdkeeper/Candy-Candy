@@ -17,9 +17,9 @@ Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 032.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 283
-Active Line: 287
-Video Position: 29604
+Scroll Position: 240
+Active Line: 244
+Video Position: 23794
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -274,7 +274,7 @@ Dialogue: 0,0:16:04.67,0:16:06.74,Default,,0,0,0,,Да, я уже понял.
 Dialogue: 0,0:16:06.74,0:16:08.84,Default,,0,0,0,,Зайти потом в ваш кабинет?
 Dialogue: 0,0:16:08.84,0:16:12.19,Default,,0,0,0,,Хорошо, навещу вас, чтобы убить время. Пока.
 Dialogue: 0,0:16:12.88,0:16:14.90,Default,,0,0,0,,Ну что за ученик!
-Dialogue: 0,0:16:25.35,0:16:27.94,Default,,0,0,0,,Кто этот необычный ученик?
+Dialogue: 0,0:16:25.35,0:16:27.94,Default,,0,0,0,,Кто этот хулиганистый ученик?
 Dialogue: 0,0:16:27.97,0:16:32.03,Default,,0,0,0,,Это сын герцога Гранчестера, Терренс Г. Гранчестер.
 Dialogue: 0,0:16:32.40,0:16:34.49,Default,,0,0,0,,Так он аристократ?
 Dialogue: 0,0:16:37.16,0:16:39.51,Default,,0,0,0,,Терренс Г. Гранчестер.
