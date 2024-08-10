@@ -12,13 +12,13 @@ Original Translation: Keeper
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: D:/Anime/Candy-Candy/Episodes/Candy-Candy 033.mkv
-Video File: D:/Anime/Candy-Candy/Episodes/Candy-Candy 033.mkv
+Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 033.mkv
+Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 033.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 188
-Active Line: 197
-Video Position: 19316
+Scroll Position: 332
+Active Line: 334
+Video Position: 32176
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -228,154 +228,149 @@ Dialogue: 0,0:13:06.57,0:13:07.54,Default,,0,0,0,,Осторожно!
 Dialogue: 0,0:13:12.48,0:13:15.85,Default,,0,0,0,,Это ты, Патти! Бабушка!
 Dialogue: 0,0:13:18.26,0:13:22.06,Default,,0,0,0,,Напугала бабушку, ну что за внучка!
 Dialogue: 0,0:13:22.21,0:13:25.60,Default,,0,0,0,,Кэнди, ты правда будешь играть на скрипке?
-Dialogue: 0,0:13:25.60,0:13:27.43,Default,,0,0,0,,Yes, I'll play for them.
+Dialogue: 0,0:13:25.60,0:13:27.43,Default,,0,0,0,,Да, обязательно.
 Dialogue: 0,0:13:27.43,0:13:28.70,Default,,0,0,0,,Но Кэнди...
-Dialogue: 0,0:13:28.70,0:13:31.33,Default,,0,0,0,,I'll just move my arms\Nlike I'm playing the instrument.
-Dialogue: 0,0:13:31.87,0:13:33.70,Default,,0,0,0,,Then the grandma will...
-Dialogue: 0,0:13:35.34,0:13:39.64,Default,,0,0,0,,A student's life is supposed to\Nhave some suspense and excitement!
-Dialogue: 0,0:13:39.64,0:13:42.41,Default,,0,0,0,,If you do that...\Nand if they discover you...
-Dialogue: 0,0:13:42.91,0:13:46.65,Default,,0,0,0,,Patty, your heart is pounding again...
-Dialogue: 0,0:13:46.65,0:13:49.65,Default,,0,0,0,,Patty, maybe we'll really pull it off.
-Dialogue: 0,0:13:49.65,0:13:54.25,Default,,0,0,0,,Yeah, a student's life can be\Nincredibly fun indeed!
-Dialogue: 0,0:14:00.13,0:14:05.84,Default,,0,0,0,,I, Candice White Ardley\Nwill now play the violin for you.
-Dialogue: 0,0:14:05.84,0:14:08.97,Default,,0,0,0,,But before that, could you turn\Nthe lights down a bit?
-Dialogue: 0,0:14:08.97,0:14:11.34,Default,,0,0,0,,I won't be in the mood otherwise.
-Dialogue: 0,0:14:12.31,0:14:14.24,Default,,0,0,0,,I'm not very good yet.
-Dialogue: 0,0:14:18.92,0:14:21.35,Default,,0,0,0,,Where did you learn this, Candy?
-Dialogue: 0,0:14:26.79,0:14:28.52,Default,,0,0,0,,She's good.
-Dialogue: 0,0:14:29.36,0:14:31.55,Default,,0,0,0,,But it's nothing special!
-Dialogue: 0,0:14:51.92,0:14:54.71,Default,,0,0,0,,Candy, you're not playing right!
-Dialogue: 0,0:14:55.22,0:14:57.09,Default,,0,0,0,,Stop!
-Dialogue: 0,0:14:57.09,0:15:00.56,Default,,0,0,0,,What, can't your comments\Nwait till the end?
-Dialogue: 0,0:15:00.56,0:15:03.15,Default,,0,0,0,,I want you to show me that violin.
-Dialogue: 0,0:15:03.66,0:15:06.00,Default,,0,0,0,,It's a very important violin to me...
-Dialogue: 0,0:15:06.00,0:15:07.52,Default,,0,0,0,,Let me see.
-Dialogue: 0,0:15:13.80,0:15:17.67,Default,,0,0,0,,It's a fake!\NIt could never make that melody.
-Dialogue: 0,0:15:17.67,0:15:19.44,Default,,0,0,0,,What's the meaning of this, Candy?
-Dialogue: 0,0:15:20.14,0:15:22.71,Default,,0,0,0,,There is somebody behind the curtain!
-Dialogue: 0,0:15:22.71,0:15:25.31,Default,,0,0,0,,That's the wind... it's nothing!
-Dialogue: 0,0:15:28.32,0:15:29.65,Default,,0,0,0,,Patty!
-Dialogue: 0,0:15:29.65,0:15:32.42,Default,,0,0,0,,Of course. Just what I thought.
-Dialogue: 0,0:15:32.66,0:15:35.46,Default,,0,0,0,,You were playing violin\Nin Candy's room.
-Dialogue: 0,0:15:35.46,0:15:37.76,Default,,0,0,0,,You showed her\Nhow to do the maths, too.
-Dialogue: 0,0:15:37.76,0:15:40.26,Default,,0,0,0,,-It was you, right?\N-Yeah...
-Dialogue: 0,0:15:40.26,0:15:42.57,Default,,0,0,0,,That means that\Nyou're Candy's friend.
-Dialogue: 0,0:15:42.57,0:15:44.90,Default,,0,0,0,,I'll remember this!
-Dialogue: 0,0:15:46.04,0:15:47.70,Default,,0,0,0,,Everyone, let's return to our rooms!
-Dialogue: 0,0:15:47.70,0:15:49.37,Default,,0,0,0,,They made fools of us!
-Dialogue: 0,0:15:50.21,0:15:53.31,Default,,0,0,0,,Exactly what I thought!\NCandy could never play the violin!
-Dialogue: 0,0:15:53.31,0:15:57.21,Default,,0,0,0,,That's right, she was a dogsbody\Nup until now!
-Dialogue: 0,0:16:00.38,0:16:02.82,Default,,0,0,0,,-What happened?\N-Terrius was here again?
-Dialogue: 0,0:16:03.35,0:16:04.92,Default,,0,0,0,,A ghost...
-Dialogue: 0,0:16:04.92,0:16:06.58,Default,,0,0,0,,A ghost you say?
-Dialogue: 0,0:16:07.42,0:16:11.03,Default,,0,0,0,,It wore a school's uniform...\Nbut its face was all rattled!
-Dialogue: 0,0:16:11.03,0:16:12.50,Default,,0,0,0,,Which way did it go?
-Dialogue: 0,0:16:12.50,0:16:15.56,Default,,0,0,0,,It disappeared around here...
-Dialogue: 0,0:16:17.43,0:16:21.37,Default,,0,0,0,,Now I even became a ghost!\NA student's life is great!
-Dialogue: 0,0:16:21.94,0:16:25.68,Default,,0,0,0,,But when did you and Patty\Nswitch places?
-Dialogue: 0,0:16:25.68,0:16:27.24,Default,,0,0,0,,When I realized that\Nshe might get discovered...
-Dialogue: 0,0:16:27.24,0:16:29.11,Default,,0,0,0,,I hid behind the curtains.
-Dialogue: 0,0:16:29.11,0:16:32.78,Default,,0,0,0,,This is the most exciting thing\NI've ever done in my life!
-Dialogue: 0,0:16:33.45,0:16:37.55,Default,,0,0,0,,Those seven teachers couldn't have\Ntaught me things this fun!
-Dialogue: 0,0:16:40.12,0:16:41.42,Default,,0,0,0,,Patty!
-Dialogue: 0,0:16:41.69,0:16:44.56,Default,,0,0,0,,Oh! Is something in your eye?
-Dialogue: 0,0:16:44.56,0:16:48.50,Default,,0,0,0,,Grandma... I'm begging you\Nplease go home...
-Dialogue: 0,0:16:48.50,0:16:51.84,Default,,0,0,0,,Come on, don't cry... okay?
-Dialogue: 0,0:16:51.84,0:16:54.07,Default,,0,0,0,,Ever since you came here...
-Dialogue: 0,0:16:54.07,0:16:57.14,Default,,0,0,0,,I keep thinking that\Nmy heart is going to explode...
-Dialogue: 0,0:16:57.14,0:16:58.51,Default,,0,0,0,,I see.
-Dialogue: 0,0:16:58.51,0:17:02.08,Default,,0,0,0,,Before leaving, I still have\None favor to ask of you!
-Dialogue: 0,0:17:02.08,0:17:03.48,Default,,0,0,0,,What is it?
-Dialogue: 0,0:17:03.48,0:17:08.75,Default,,0,0,0,,I've never been in a classroom before.\NI want to go there and attend class!
-Dialogue: 0,0:17:08.75,0:17:10.38,Default,,0,0,0,,Grandma!
-Dialogue: 0,0:17:10.85,0:17:13.16,Default,,0,0,0,,Patty, hang in there!
-Dialogue: 0,0:17:13.16,0:17:16.28,Default,,0,0,0,,She's a bit faint-hearted, isn't she?
-Dialogue: 0,0:17:20.00,0:17:21.59,Default,,0,0,0,,Hurry!
-Dialogue: 0,0:17:26.04,0:17:28.10,Default,,0,0,0,,The classrooms are that way.
-Dialogue: 0,0:17:36.95,0:17:38.47,Default,,0,0,0,,Granny!
-Dialogue: 0,0:17:39.65,0:17:41.38,Default,,0,0,0,,Hide your face!
-Dialogue: 0,0:17:43.15,0:17:44.64,Default,,0,0,0,,Uh...
-Dialogue: 0,0:17:45.56,0:17:48.06,Default,,0,0,0,,She isn't feeling too well
-Dialogue: 0,0:17:48.06,0:17:50.82,Default,,0,0,0,,so I'm taking her to the nurse's room...
-Dialogue: 0,0:17:55.93,0:18:01.03,Default,,0,0,0,,So exciting!\Nlife in school...
-Dialogue: 0,0:18:03.81,0:18:06.33,Default,,0,0,0,,So this is the classroom?
-Dialogue: 0,0:18:06.84,0:18:11.18,Default,,0,0,0,,Who'd think that I would get to\Nuse this book in school...
-Dialogue: 0,0:18:11.18,0:18:13.62,Default,,0,0,0,,it's a dream come true!
-Dialogue: 0,0:18:16.09,0:18:19.49,Default,,0,0,0,,I wish I could take you to our classroom\Nbut...
-Dialogue: 0,0:18:19.49,0:18:20.92,Default,,0,0,0,,This one is fine!
-Dialogue: 0,0:18:20.92,0:18:23.42,Default,,0,0,0,,If I listen carefully\NI can hear everything!
-Dialogue: 0,0:18:23.96,0:18:26.80,Default,,0,0,0,,Anyway, I'm off to class!
-Dialogue: 0,0:18:26.80,0:18:29.63,Default,,0,0,0,,-I'll sit right here.\N-Okay!
-Dialogue: 0,0:18:33.67,0:18:37.31,Default,,0,0,0,,-Where were you, Candice?\N-Sorry!
-Dialogue: 0,0:18:37.31,0:18:41.85,Default,,0,0,0,,You can't become a prominent\Nlady if you aren't puncutal.
-Dialogue: 0,0:18:41.85,0:18:43.68,Default,,0,0,0,,I'll be more careful!
-Dialogue: 0,0:18:43.68,0:18:47.78,Default,,0,0,0,,We will be grading today.\NHand over your exam prints.
-Dialogue: 0,0:18:47.78,0:18:49.45,Default,,0,0,0,,Grading?
-Dialogue: 0,0:18:49.69,0:18:54.95,Default,,0,0,0,,Are you saying that you didn't\Nreceive a print, just like Patricia?
-Dialogue: 0,0:18:55.26,0:18:56.62,Default,,0,0,0,,Patty...
-Dialogue: 0,0:18:59.26,0:19:00.83,Default,,0,0,0,,-Louise!\N-Yes!
-Dialogue: 0,0:19:00.83,0:19:03.60,Default,,0,0,0,,You gave a print to Candice\Nhaven't you?
-Dialogue: 0,0:19:03.60,0:19:05.80,Default,,0,0,0,,Of course!
-Dialogue: 0,0:19:05.80,0:19:08.51,Default,,0,0,0,,I went to her room and delivered it.
-Dialogue: 0,0:19:08.51,0:19:10.27,Default,,0,0,0,,That's a lie!
-Dialogue: 0,0:19:10.27,0:19:12.61,Default,,0,0,0,,I haven't received anything!
-Dialogue: 0,0:19:12.61,0:19:14.27,Default,,0,0,0,,Be quiet!
-Dialogue: 0,0:19:14.54,0:19:16.51,Default,,0,0,0,,Since you forgot about the print
-Dialogue: 0,0:19:16.51,0:19:20.11,Default,,0,0,0,,why are you saying that\Nyou didn't even receive one?
-Dialogue: 0,0:19:22.62,0:19:25.55,Default,,0,0,0,,Patricia and Candice\Nstand out in front of the class!
-Dialogue: 0,0:19:25.89,0:19:28.93,Default,,0,0,0,,What are they saying that\Nthey delivered the prints to her!
-Dialogue: 0,0:19:28.93,0:19:32.09,Default,,0,0,0,,I was there all the time!
-Dialogue: 0,0:19:34.13,0:19:35.33,Default,,0,0,0,,What is that?
-Dialogue: 0,0:19:35.33,0:19:38.40,Default,,0,0,0,,The neighboring classroom\Nshould have been vacant.
-Dialogue: 0,0:19:38.40,0:19:39.90,Default,,0,0,0,,I'll take a look!
-Dialogue: 0,0:19:39.90,0:19:41.39,Default,,0,0,0,,Candice!
-Dialogue: 0,0:19:42.84,0:19:45.14,Default,,0,0,0,,There is nobody over there.
-Dialogue: 0,0:19:45.14,0:19:49.24,Default,,0,0,0,,Candice, I want you to stand still.
-Dialogue: 0,0:19:50.08,0:19:52.82,Default,,0,0,0,,So this is the best school in England?
-Dialogue: 0,0:19:52.82,0:19:55.45,Default,,0,0,0,,With everybody being so mean to Candy...
-Dialogue: 0,0:19:55.45,0:19:58.19,Default,,0,0,0,,I don't want to live as a student\Nanymore.
-Dialogue: 0,0:19:58.19,0:20:01.32,Default,,0,0,0,,But not all people are bad as them!
-Dialogue: 0,0:20:01.32,0:20:03.56,Default,,0,0,0,,No, that goes for the students.\NAs for the teachers
-Dialogue: 0,0:20:03.56,0:20:06.93,Default,,0,0,0,,I don't agree with\Ntheir teaching methods!
-Dialogue: 0,0:20:06.93,0:20:10.03,Default,,0,0,0,,Grandma, your voice is too loud!
-Dialogue: 0,0:20:10.03,0:20:13.64,Default,,0,0,0,,I was grateful to my parents for\Nnot sending me into a regular school.
-Dialogue: 0,0:20:13.64,0:20:17.51,Default,,0,0,0,,Although the seven teachers\Nmay not better than regular school.
-Dialogue: 0,0:20:17.51,0:20:20.31,Default,,0,0,0,,I would've taken Patty\Nback with myself.
-Dialogue: 0,0:20:20.31,0:20:21.88,Default,,0,0,0,,Grandma...
-Dialogue: 0,0:20:21.88,0:20:26.92,Default,,0,0,0,,However, there is one thing which you\Ncan't possibly get with home schooling.
-Dialogue: 0,0:20:26.92,0:20:29.15,Default,,0,0,0,,One thing?
-Dialogue: 0,0:20:29.15,0:20:30.29,Default,,0,0,0,,Yes.
-Dialogue: 0,0:20:30.29,0:20:35.96,Default,,0,0,0,,Llocked up in the house,\Nyou can never make friends like Candy.
-Dialogue: 0,0:20:35.96,0:20:39.30,Default,,0,0,0,,Candy, take care after Patty.
-Dialogue: 0,0:20:39.30,0:20:41.46,Default,,0,0,0,,Yeah...
-Dialogue: 0,0:20:41.93,0:20:47.87,Default,,0,0,0,,Send my regards to the young man\Nwho help me get in here.
-Dialogue: 0,0:20:50.44,0:20:52.08,Default,,0,0,0,,To Terrius?
-Dialogue: 0,0:20:52.08,0:20:53.28,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:20:53.28,0:20:57.61,Default,,0,0,0,,I sneak in here because\Nhe's drawing away all the attention!
-Dialogue: 0,0:20:58.28,0:20:59.42,Default,,0,0,0,,Well then, goodbye.
-Dialogue: 0,0:20:59.42,0:21:02.22,Default,,0,0,0,,Grandma, if someone sees you...
-Dialogue: 0,0:21:02.22,0:21:06.12,Default,,0,0,0,,It's okay. Getting out of here\Nwill be much easier!
-Dialogue: 0,0:21:06.12,0:21:09.99,Default,,0,0,0,,I snuck like a thief on my way in!
-Dialogue: 0,0:21:10.63,0:21:12.00,Default,,0,0,0,,Grandma!
-Dialogue: 0,0:21:12.00,0:21:16.33,Default,,0,0,0,,Patty, I'm sure\Nyour grandma has a good idea.
-Dialogue: 0,0:21:16.33,0:21:18.06,Default,,0,0,0,,Uh...
-Dialogue: 0,0:21:20.60,0:21:26.74,Default,,0,0,0,,My granddaughter, Patricia\Nlives in this dormitory.
-Dialogue: 0,0:21:26.74,0:21:28.31,Default,,0,0,0,,Patricia?
-Dialogue: 0,0:21:28.31,0:21:32.42,Default,,0,0,0,,Yes! I'd like to see her\Neven if for just a moment.
-Dialogue: 0,0:21:32.42,0:21:34.15,Default,,0,0,0,,Unfortunately...
-Dialogue: 0,0:21:34.15,0:21:38.99,Default,,0,0,0,,To meet students within the dormitory\Nis against the regulation.
-Dialogue: 0,0:21:39.26,0:21:44.56,Default,,0,0,0,,Oh, I see... well if that's the case,\NI'll be on my way...
-Dialogue: 0,0:21:45.09,0:21:47.93,Default,,0,0,0,,Where is the exit then?
-Dialogue: 0,0:21:47.93,0:21:50.97,Default,,0,0,0,,I'll show you.\NLet me help with your luggagge.
-Dialogue: 0,0:21:50.97,0:21:53.14,Default,,0,0,0,,Oh, thank you...
-Dialogue: 0,0:21:53.14,0:21:55.54,Default,,0,0,0,,So, that's what she had in mind...
-Dialogue: 0,0:21:55.54,0:21:57.47,Default,,0,0,0,,She's so much trouble.
-Dialogue: 0,0:22:01.21,0:22:02.61,Default,,0,0,0,,She's so nice!
-Dialogue: 0,0:22:02.61,0:22:07.24,Default,,0,0,0,,Someday, I want to be a nice granny\Njust like her!
-Dialogue: 0,0:22:07.48,0:22:10.59,Default,,0,0,0,,Candy, would you be my friend?
-Dialogue: 0,0:22:10.59,0:22:12.46,Default,,0,0,0,,Of course!
-Dialogue: 0,0:22:12.46,0:22:18.76,Default,,0,0,0,,She said that the best thing about\Nschool is making friends, right?
-Dialogue: 0,0:22:18.76,0:22:19.96,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:22:22.00,0:22:24.03,Default,,0,0,0,,Coming and going like the wind
-Dialogue: 0,0:22:24.03,0:22:27.37,Default,,0,0,0,,it was Patricia's grandmother...
-Dialogue: 0,0:22:27.97,0:22:33.14,Default,,0,0,0,,who built a firm bond between\NCandy's and Patricia's hearts.
+Dialogue: 0,0:13:28.70,0:13:31.33,Default,,0,0,0,,Я буду только делать вид, что играю.
+Dialogue: 0,0:13:31.87,0:13:33.70,Default,,0,0,0,,Значит, играть будет...
+Dialogue: 0,0:13:35.34,0:13:39.64,Default,,0,0,0,,Школьная жизнь становится всё интересней и интересней!
+Dialogue: 0,0:13:39.64,0:13:42.41,Default,,0,0,0,,Но если ты будешь играть, и тебя найдут...
+Dialogue: 0,0:13:42.91,0:13:46.65,Default,,0,0,0,,Патти, ты снова вся трепещешь.
+Dialogue: 0,0:13:46.65,0:13:49.65,Default,,0,0,0,,Патти, мы как-нибудь справимся.
+Dialogue: 0,0:13:49.65,0:13:54.25,Default,,0,0,0,,Конечно. Школьная жизнь такая весёлая!
+Dialogue: 0,0:14:00.13,0:14:05.84,Default,,0,0,0,,Я, Кэндис Уайт Ардли, попробую сыграть для вас на скрипке.
+Dialogue: 0,0:14:05.84,0:14:08.97,Default,,0,0,0,,Но перед этим не могли бы вы погасить свет?
+Dialogue: 0,0:14:08.97,0:14:11.34,Default,,0,0,0,,Для создания настроения.
+Dialogue: 0,0:14:12.31,0:14:14.24,Default,,0,0,0,,Я ещё не очень играю...
+Dialogue: 0,0:14:18.92,0:14:21.08,Default,,0,0,0,,Где ты научилась играть, Кэнди?
+Dialogue: 0,0:14:26.79,0:14:28.52,Default,,0,0,0,,Как красиво!
+Dialogue: 0,0:14:29.36,0:14:31.26,Default,,0,0,0,,Но не виртуозно.
+Dialogue: 0,0:14:51.92,0:14:54.71,Default,,0,0,0,,Кэнди, ты играешь неправильно!
+Dialogue: 0,0:14:55.22,0:14:57.09,Default,,0,0,0,,Стоп!
+Dialogue: 0,0:14:57.09,0:15:00.56,Default,,0,0,0,,Нельзя было подождать с критикой до окончания игры?
+Dialogue: 0,0:15:00.56,0:15:03.15,Default,,0,0,0,,Дай посмотреть твою скрипку.
+Dialogue: 0,0:15:03.61,0:15:05.85,Default,,0,0,0,,Это очень ценная скрипка...
+Dialogue: 0,0:15:06.00,0:15:07.52,Default,,0,0,0,,Дай взглянуть.
+Dialogue: 0,0:15:13.95,0:15:17.67,Default,,0,0,0,,Это подделка! На ней вообще нельзя играть.
+Dialogue: 0,0:15:17.67,0:15:19.44,Default,,0,0,0,,Что всё это значит, Кэнди?
+Dialogue: 0,0:15:20.14,0:15:22.71,Default,,0,0,0,,За занавесом кто-то есть!
+Dialogue: 0,0:15:22.71,0:15:25.19,Default,,0,0,0,,Это ветер! Там никого нет!
+Dialogue: 0,0:15:28.32,0:15:29.14,Default,,0,0,0,,Патти!
+Dialogue: 0,0:15:29.65,0:15:32.42,Default,,0,0,0,,Ну конечно. Теперь всё ясно.
+Dialogue: 0,0:15:32.66,0:15:35.35,Default,,0,0,0,,Ты играла на скрипке в комнате Кэнди,
+Dialogue: 0,0:15:35.46,0:15:39.11,Default,,0,0,0,,помогала ей с математикой, это всё была ты, Патти?
+Dialogue: 0,0:15:39.23,0:15:40.26,Default,,0,0,0,,Да...
+Dialogue: 0,0:15:40.26,0:15:42.57,Default,,0,0,0,,Значит, ты теперь подруга Кэнди.
+Dialogue: 0,0:15:42.57,0:15:44.41,Default,,0,0,0,,Я это тебе припомню!
+Dialogue: 0,0:15:46.04,0:15:47.70,Default,,0,0,0,,Расходимся по комнатам!
+Dialogue: 0,0:15:47.70,0:15:49.17,Default,,0,0,0,,Водят нас за нос!
+Dialogue: 0,0:15:50.21,0:15:53.12,Default,,0,0,0,,Как я и думала, не может же Кэнди играть на скрипке!
+Dialogue: 0,0:15:53.31,0:15:57.21,Default,,0,0,0,,Конечно, ведь раньше она смотрела за лошадьми!
+Dialogue: 0,0:16:00.38,0:16:02.82,Default,,0,0,0,,- Что случилось?\N- Снова Терренс залез?
+Dialogue: 0,0:16:03.25,0:16:04.83,Default,,0,0,0,,Призрак...
+Dialogue: 0,0:16:04.92,0:16:06.58,Default,,0,0,0,,Призрак, говоришь?
+Dialogue: 0,0:16:07.42,0:16:10.86,Default,,0,0,0,,Он в школьной форме,\Nа всё лицо в морщинах!
+Dialogue: 0,0:16:11.13,0:16:12.50,Default,,0,0,0,,Куда он пошёл?
+Dialogue: 0,0:16:12.55,0:16:15.10,Default,,0,0,0,,Он сразу куда-то исчез...
+Dialogue: 0,0:16:17.43,0:16:21.42,Default,,0,0,0,,Меня приняли за призрака! Вот это школьная жизнь!
+Dialogue: 0,0:16:22.01,0:16:25.68,Default,,0,0,0,,Но когда вы с Патти поменялись местами?
+Dialogue: 0,0:16:25.68,0:16:29.11,Default,,0,0,0,,Я спряталась за занавесом, когда бабушку уже почти нашли.
+Dialogue: 0,0:16:29.11,0:16:32.78,Default,,0,0,0,,Это самое захватывающее событие в моей жизни!
+Dialogue: 0,0:16:33.45,0:16:37.55,Default,,0,0,0,,Так веселиться не научат и семь учителей!
+Dialogue: 0,0:16:40.12,0:16:41.34,Default,,0,0,0,,Патти!
+Dialogue: 0,0:16:41.69,0:16:44.56,Default,,0,0,0,,Ой, тебе что-то в глаз попало?
+Dialogue: 0,0:16:44.69,0:16:48.36,Default,,0,0,0,,Бабушка, прошу тебя, возвращайся домой!
+Dialogue: 0,0:16:48.50,0:16:51.84,Default,,0,0,0,,Плакать совсем не обязательно.
+Dialogue: 0,0:16:51.84,0:16:56.93,Default,,0,0,0,,С тех пор, как ты приехала, моё сердце разрывается на части!
+Dialogue: 0,0:16:57.14,0:17:01.71,Default,,0,0,0,,Я поняла, но позвольте мне ещё один каприз.
+Dialogue: 0,0:17:02.08,0:17:03.48,Default,,0,0,0,,Какой?
+Dialogue: 0,0:17:03.48,0:17:08.75,Default,,0,0,0,,Я хочу хотя бы раз побывать в классе на уроке!
+Dialogue: 0,0:17:08.87,0:17:10.38,Default,,0,0,0,,Бабушка!
+Dialogue: 0,0:17:10.85,0:17:13.16,Default,,0,0,0,,Держись, Патти!
+Dialogue: 0,0:17:13.16,0:17:16.15,Default,,0,0,0,,Что за робкая девочка...
+Dialogue: 0,0:17:20.00,0:17:21.15,Default,,0,0,0,,Быстрей, быстрей!
+Dialogue: 0,0:17:26.04,0:17:28.10,Default,,0,0,0,,Класс в той стороне.
+Dialogue: 0,0:17:36.95,0:17:38.47,Default,,0,0,0,,Бабушка!
+Dialogue: 0,0:17:39.65,0:17:41.15,Default,,0,0,0,,Спрячьте лицо!
+Dialogue: 0,0:17:42.78,0:17:44.13,Default,,0,0,0,,Это...
+Dialogue: 0,0:17:45.56,0:17:50.82,Default,,0,0,0,,Ей стало плохо во время урока, и я веду её в медпункт.
+Dialogue: 0,0:17:55.71,0:18:01.03,Default,,0,0,0,,Как же прекрасна... школьная жизнь.
+Dialogue: 0,0:18:03.34,0:18:05.89,Default,,0,0,0,,Это и есть класс?
+Dialogue: 0,0:18:06.84,0:18:12.50,Default,,0,0,0,,Вот это да, с детства мечтала посидеть за школьной партой!
+Dialogue: 0,0:18:12.50,0:18:16.04,Default,,0,0,0,,Начнём с повторения вчерашнего.
+Dialogue: 0,0:18:16.05,0:18:19.41,Default,,0,0,0,,Я правда хотела бы привести вас в наш класс...
+Dialogue: 0,0:18:19.49,0:18:23.37,Default,,0,0,0,,Соседнего достаточно. Если прислушаться, то всё слышно.
+Dialogue: 0,0:18:23.96,0:18:26.80,Default,,0,0,0,,Ладно, мне пора на урок!
+Dialogue: 0,0:18:26.80,0:18:29.88,Default,,0,0,0,,- Постараюсь вовремя исчезнуть!\N- Ага!
+Dialogue: 0,0:18:33.67,0:18:35.39,Default,,0,0,0,,Где вы были, Кэндис?
+Dialogue: 0,0:18:35.51,0:18:36.91,Default,,0,0,0,,Извините!
+Dialogue: 0,0:18:37.31,0:18:41.40,Default,,0,0,0,,Вам не стать достойной леди, если будете опаздывать.
+Dialogue: 0,0:18:41.85,0:18:43.39,Default,,0,0,0,,Я не буду!
+Dialogue: 0,0:18:43.68,0:18:47.43,Default,,0,0,0,,Сегодня будет проверка. Сдайте свои распечатки с домашним заданием.
+Dialogue: 0,0:18:47.78,0:18:49.63,Default,,0,0,0,,Домашнее задание?
+Dialogue: 0,0:18:49.69,0:18:54.95,Default,,0,0,0,,Вы хотите сказать, что не получали распечатку, как и Патрисия?
+Dialogue: 0,0:18:55.17,0:18:56.45,Default,,0,0,0,,Патти...
+Dialogue: 0,0:18:59.26,0:19:00.43,Default,,0,0,0,,- Луиза!\N- Да!
+Dialogue: 0,0:19:00.83,0:19:03.41,Default,,0,0,0,,Ты же передала распечатку Кэндис?
+Dialogue: 0,0:19:03.49,0:19:05.80,Default,,0,0,0,,Конечно, сестра!
+Dialogue: 0,0:19:05.80,0:19:08.51,Default,,0,0,0,,Я донесла её точно до комнаты.
+Dialogue: 0,0:19:08.51,0:19:09.42,Default,,0,0,0,,Неправда!
+Dialogue: 0,0:19:10.27,0:19:12.61,Default,,0,0,0,,Я ничего не получала!
+Dialogue: 0,0:19:12.77,0:19:14.27,Default,,0,0,0,,Помолчите!
+Dialogue: 0,0:19:14.54,0:19:19.75,Default,,0,0,0,,То есть вы забыли про распечатку, но говорите, что не получали её?
+Dialogue: 0,0:19:22.62,0:19:25.29,Default,,0,0,0,,Патрисия и Кэндис, выйдите вперёд!
+Dialogue: 0,0:19:25.89,0:19:32.09,Default,,0,0,0,,Она говорит, что приносила распечатки в комнату Кэнди, но я была там весь день!
+Dialogue: 0,0:19:34.09,0:19:37.81,Default,,0,0,0,,Что это? В соседнем классе никого быть не должно.
+Dialogue: 0,0:19:38.40,0:19:39.79,Default,,0,0,0,,Я пойду посмотреть!
+Dialogue: 0,0:19:39.90,0:19:41.39,Default,,0,0,0,,Кэндис!
+Dialogue: 0,0:19:42.84,0:19:44.75,Default,,0,0,0,,Сестра, там никого нет.
+Dialogue: 0,0:19:45.14,0:19:48.96,Default,,0,0,0,,Кэндис, вы можете постоять спокойно?
+Dialogue: 0,0:19:50.04,0:19:52.82,Default,,0,0,0,,И это лучшая школа в Англии?
+Dialogue: 0,0:19:52.82,0:19:55.35,Default,,0,0,0,,Все издеваются над такой хорошей Кэнди,
+Dialogue: 0,0:19:55.41,0:19:58.19,Default,,0,0,0,,такая школьная жизнь мне не нужна.
+Dialogue: 0,0:19:58.19,0:20:01.05,Default,,0,0,0,,Ну не все же такие плохие!
+Dialogue: 0,0:20:01.32,0:20:06.57,Default,,0,0,0,,Нет, плохи что ученики, что учителя, --\Nметоды обучения никуда не годятся!
+Dialogue: 0,0:20:07.01,0:20:09.50,Default,,0,0,0,,Бабушка, ты говоришь слишком громко!
+Dialogue: 0,0:20:10.03,0:20:13.64,Default,,0,0,0,,Спасибо родителям, что мне не пришлось ходить в школу.
+Dialogue: 0,0:20:13.64,0:20:17.51,Default,,0,0,0,,Не знаю только, было ли лучше\Nзаниматься с семью учителями.
+Dialogue: 0,0:20:17.51,0:20:20.36,Default,,0,0,0,,Честно говоря, я бы хотела забрать Патти с собой.
+Dialogue: 0,0:20:20.37,0:20:21.49,Default,,0,0,0,,Бабушка!
+Dialogue: 0,0:20:21.88,0:20:26.53,Default,,0,0,0,,Есть только одно, что домашние учителя дать не могут.
+Dialogue: 0,0:20:27.02,0:20:28.48,Default,,0,0,0,,Только одно?
+Dialogue: 0,0:20:29.11,0:20:30.29,Default,,0,0,0,,Да.
+Dialogue: 0,0:20:30.29,0:20:35.52,Default,,0,0,0,,Сидя дома взаперти, ты не встретишь такую замечательную подругу, как Кэнди.
+Dialogue: 0,0:20:35.96,0:20:38.49,Default,,0,0,0,,Кэнди, позаботься о Патти.
+Dialogue: 0,0:20:39.30,0:20:40.51,Default,,0,0,0,,Да!
+Dialogue: 0,0:20:41.73,0:20:47.28,Default,,0,0,0,,И передай привет тому мальчику, что бросил камень и устроил переполох.
+Dialogue: 0,0:20:50.44,0:20:51.75,Default,,0,0,0,,Терренсу?
+Dialogue: 0,0:20:52.08,0:20:57.61,Default,,0,0,0,,Именно. Благодаря ему я и смогла пробраться в общежитие.
+Dialogue: 0,0:20:58.28,0:20:59.42,Default,,0,0,0,,До свидания!
+Dialogue: 0,0:20:59.42,0:21:02.22,Default,,0,0,0,,Бабушка, если тебя заметят...
+Dialogue: 0,0:21:02.22,0:21:09.10,Default,,0,0,0,,Всё будет хорошо. Пришла я сюда тайком, а уйти можно и с шумом.
+Dialogue: 0,0:21:10.63,0:21:11.88,Default,,0,0,0,,Бабушка!
+Dialogue: 0,0:21:11.93,0:21:15.97,Default,,0,0,0,,Патти, я уверена, что бабушка всё продумала.
+Dialogue: 0,0:21:16.33,0:21:18.06,Default,,0,0,0,,Простите...
+Dialogue: 0,0:21:20.60,0:21:26.56,Default,,0,0,0,,Моя внучка, Патрисия, живёт в этом общежитии.
+Dialogue: 0,0:21:26.83,0:21:28.16,Default,,0,0,0,,Патрисия?
+Dialogue: 0,0:21:28.31,0:21:32.07,Default,,0,0,0,,Да! Хотелось бы увидеться с ней, хоть одним глазком.
+Dialogue: 0,0:21:32.42,0:21:36.39,Default,,0,0,0,,К сожалению, по нашим правилам с учениками встречаться нельзя,
+Dialogue: 0,0:21:36.42,0:21:38.99,Default,,0,0,0,,за исключением ежемесячных встреч.
+Dialogue: 0,0:21:39.15,0:21:47.93,Default,,0,0,0,,Вот оно что... Значит, увидеться не получится. А где у вас тут выход?
+Dialogue: 0,0:21:47.93,0:21:50.97,Default,,0,0,0,,Я вас провожу. Позвольте ваш багаж.
+Dialogue: 0,0:21:50.97,0:21:53.14,Default,,0,0,0,,Не стóит, я вам так благодарна.
+Dialogue: 0,0:21:53.14,0:21:55.54,Default,,0,0,0,,Действительно, есть чему.
+Dialogue: 0,0:21:55.54,0:21:57.47,Default,,0,0,0,,Проблемная бабушка.
+Dialogue: 0,0:22:01.09,0:22:02.61,Default,,0,0,0,,Замечательная!
+Dialogue: 0,0:22:02.61,0:22:07.24,Default,,0,0,0,,Я надеюсь стать такой же замечательной бабушкой, когда состарюсь.
+Dialogue: 0,0:22:07.48,0:22:10.59,Default,,0,0,0,,Кэнди, ты будешь со мной дружить?
+Dialogue: 0,0:22:10.73,0:22:12.46,Default,,0,0,0,,Конечно!
+Dialogue: 0,0:22:12.46,0:22:18.76,Default,,0,0,0,,Бабушка же говорила, что лучшее в школе --\Nэто возможность завести друзей.
+Dialogue: 0,0:22:18.76,0:22:19.96,Default,,0,0,0,,Да!
+Dialogue: 0,0:22:22.00,0:22:27.37,Default,,0,0,0,,Прилетевшая и исчезнувшая, словно ветер,
+Dialogue: 0,0:22:27.97,0:22:33.45,Default,,0,0,0,,бабушка Патрисии крепко связала сердца Кэнди и Патти.
+Dialogue: 0,0:22:44.40,0:22:52.70,Lyrics,,0,0,0,,Откуда приходит завтрашний день?
+Dialogue: 0,0:22:52.88,0:23:02.51,Lyrics,,0,0,0,,Я люблю, люблю завтрашний день
+Dialogue: 0,0:23:02.86,0:23:11.82,Lyrics,,0,0,0,,Что-то прекрасное вот-вот случится
+Dialogue: 0,0:23:11.82,0:23:21.17,Lyrics,,0,0,0,,Я люблю, люблю завтрашний день
+Dialogue: 0,0:23:21.66,0:23:29.82,Lyrics,,0,0,0,,Лицом к сверкающему ветру
+Dialogue: 0,0:23:30.19,0:23:40.96,Lyrics,,0,0,0,,Он зовёт, зовёт меня
+Dialogue: 0,0:23:41.55,0:23:52.62,Lyrics,,0,0,0,,Кэнди – Кэнди
