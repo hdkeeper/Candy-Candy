@@ -16,9 +16,9 @@ Audio File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 034.mkv
 Video File: ../../../Videos/Candy-Candy/Episodes/Candy-Candy 034.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 316
-Active Line: 317
-Video Position: 33148
+Scroll Position: 310
+Active Line: 311
+Video Position: 31830
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -342,7 +342,7 @@ Dialogue: 0,0:21:49.99,0:21:50.95,Default,,0,0,0,,Да!
 Dialogue: 0,0:21:52.97,0:21:54.49,Default,,0,0,0,,Патти!
 Dialogue: 0,0:21:58.11,0:22:02.11,Default,,0,0,0,,Если у тебя есть сердце, ты поймёшь и сердце другого.
 Dialogue: 0,0:22:02.58,0:22:05.28,Default,,0,0,0,,Кэнди тоже так думала.
-Dialogue: 0,0:22:07.55,0:22:11.95,Default,,0,0,0,,Но было одно, чего Кэнди не понимала.
+Dialogue: 0,0:22:07.55,0:22:11.95,Default,,0,0,0,,Но одного Кэнди не понимала.
 Dialogue: 0,0:22:12.45,0:22:15.02,Default,,0,0,0,,Это было сердце Терри.
 Dialogue: 0,0:22:15.23,0:22:18.70,Default,,0,0,0,,Сколько бы ни думала, Кэнди не могла понять,
 Dialogue: 0,0:22:18.70,0:22:23.36,Default,,0,0,0,,каким мальчиком был острый на язык Терри?
