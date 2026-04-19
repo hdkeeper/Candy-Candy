@@ -41,7 +41,7 @@
 |                              |      Серий | Прогресс                           |
 | ---------------------------- | ---------: | ---------------------------------- |
 | Английские субтитры, тайминг | 115 из 115 | ![](https://geps.dev/progress/100) |
-| Русские субтитры, перевод    |  37 из 115 | ![](https://geps.dev/progress/32)  |
+| Русские субтитры, перевод    |  38 из 115 | ![](https://geps.dev/progress/33)  |
 
 [Скачать из архива Kage](http://fansubs.ru/base.php?id=7071)
 
@@ -58,4 +58,3 @@
 
 * E-mail hd_keeper@mail.ru
 * Телеграм [@HDKeeper](https://t.me/HDKeeper)
-* Skype [hd_keeper](https://join.skype.com/invite/kUFGDOFMLgQo)

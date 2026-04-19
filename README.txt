@@ -32,4 +32,3 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru
 
 * E-mail hd_keeper@mail.ru
 * Телеграм @HDKeeper
-* Skype hd_keeper
